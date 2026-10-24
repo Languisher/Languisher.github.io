@@ -1,7 +1,6 @@
 ---
-title: 文章
+title: Blog
 menu:
   main:
-    name: 文章
-    weight: 20
+    weight: 2
 ---

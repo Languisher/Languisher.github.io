@@ -1,6 +1,7 @@
 ---
 title: Documentation
-draft: true
-cascade:
-  draft: true
+menu:
+  main:
+    name: Docs
+    weight: 3
 ---

@@ -1,12 +1,11 @@
 ---
-title: 搜索
+title: Search
 menu:
   main:
-    name: 搜索
-    weight: 60
+    weight: 4
 ---
 
-输入关键词搜索文章。空格表示同时包含多个关键词，`|` 表示匹配任意关键词，英文双引号表示匹配完整短语。
+The searching is performed via fuse.js. For the search keywords, white spaces act as the `AND` operator, and `|` acts as the `OR` operator. To match an exact phrase, double quote it. For example, `R Markdown` matches articles that contain both `R` and `Markdown`, `R | Markdown` matches articles that contain `R` or `Markdown`, and `"R Markdown"` matches articles that contain the whole phrase `R Markdown`.
 
 <style type="text/css">
 .main {
@@ -28,7 +27,7 @@ menu:
 }
 </style>
 
-<input type="search" id="search-input" aria-label="搜索文章">
+<input type="search" id="search-input">
 
 <div class="search-results">
 <section>

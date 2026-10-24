@@ -1,11 +1,30 @@
 ---
-title: L1Nx's Site
+title: Home
 ---
 
-# Languisher
+<style type="text/css">
+.home {
+  text-align: center;
+}
+.home h1 {
+  font-size: 3em;
+}
+.home h2 {
+  margin-bottom: 4em;
+}
+.home ul {
+  margin-left: -4em;
+}
+.home ul li {
+  display: inline-block;
+  margin-left: 4em;
+}
+</style>
 
-主要关注大模型推理优化、计算机系统以及并行计算。
+<h1 class="title">Hugo Paged</h1>
 
-[关于我](/about/) · [GitHub](https://github.com/Languisher) · [Email](mailto:nanlinfr@gmail.com)
+## _by_ Yihui Xie
 
-{{< recent-posts >}}
+- CLEAN-CUT
+- PRINT FEEL
+- MINIMAL CSS
