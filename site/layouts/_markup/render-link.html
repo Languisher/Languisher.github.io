@@ -1,0 +1,7 @@
+{{- $url := urls.Parse .Destination -}}
+{{- $contentPath := index hugo.Data.legacy_posts $url.Path -}}
+{{- if and $contentPath (not (.Page.Site.GetPage $contentPath)) -}}
+<span class="draft-reference" title="草稿，尚未发布">{{ .Text }}<small>（草稿，尚未发布）</small></span>
+{{- else -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text }}</a>
+{{- end -}}

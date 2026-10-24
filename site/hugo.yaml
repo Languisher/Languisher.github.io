@@ -6,6 +6,8 @@ ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
 defaultContentLanguage: "zh"
 hasCJKLanguage: true
+buildFuture: true
+enableRobotsTXT: true
 
 outputs:
   home: [html, rss, json]
@@ -13,30 +15,40 @@ outputs:
 menu:
   main:
     - name: Github
-      url: "https://github.com/yihui/hugo-paged"
-      weight: 10
+      url: "https://github.com/Languisher"
+      weight: 90
       params:
         class: [optional]
 
 params:
-  description: "A website built through Hugo with the hugo-paged theme."
+  description: "大模型推理优化、计算机系统与并行计算。"
+  author:
+    cn: Languisher
+    blog: Languisher
   logo:
     en:
-      alt: Nan Lin's Site
+      alt: L1Nx's Site
+      url: /
       img: # a path to the logo
-  footer: "&copy; [Yihui Xie](https://yihui.org) {Year}"
+  footer: "&copy; [Languisher](/about/) {Year}"
 
 security:
   allowContent: ['.*']
 
 markup:
   highlight:
-    codeFences: false
+    codeFences: true
+    noClasses: false
+    lineNos: false
   goldmark:
     extensions:
       passthrough:
         enable: true
         delimiters:
-          block: [['$$', '$$']]
+          block: [['$$', '$$'], ['\[', '\]']]
+          inline: [['$', '$'], ['\(', '\)']]
     renderer:
       unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 6

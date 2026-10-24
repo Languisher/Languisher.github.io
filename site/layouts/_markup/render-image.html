@@ -1,0 +1,5 @@
+{{- if strings.HasSuffix (lower (urls.Parse .Destination).Path) ".pdf" -}}
+<a class="pdf-attachment" href="{{ .Destination | safeURL }}">{{ .PlainText }} (PDF)</a>
+{{- else -}}
+<img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}" loading="lazy"{{ with .Title }} title="{{ . }}"{{ end }}>
+{{- end -}}

@@ -1,0 +1,4609 @@
+{
+  "posts": [
+    {
+      "source": "src/content/posts/agent-infra/Agent Infra.md",
+      "destination": "content/blog/agent-infra/Agent Infra.md",
+      "route": "/posts/agent-infra-main/",
+      "sourceSha256": "91d71a0654440ac9d104bc1547e199a6177fa368a909466d98b767a2bde12b01",
+      "draft": false,
+      "categories": [
+        "agent-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Agent Infra 关键概念整理",
+        "published": "2026-06-10T14:17:49.850Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Agent-Infra"
+        ],
+        "category": "Agent-Infra",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "agent-infra-main"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/agent-infra/Agent Serving Scheduler 专题.md",
+      "destination": "content/blog/agent-infra/Agent Serving Scheduler 专题.md",
+      "route": "/posts/agent-serving/",
+      "sourceSha256": "1a62805ee705b0057d6aefebc06f01ba31bdd459136f45c62c091cd568cf92f5",
+      "draft": false,
+      "categories": [
+        "agent-部署"
+      ],
+      "sourceMetadata": {
+        "title": "Agent Serving 专题",
+        "published": "2026-06-16T09:35:12.593Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Agent-Infra"
+        ],
+        "category": "Agent 部署",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "agent-serving"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/agent-infra/paper-reading/2511-Continuum Efficient and Robust Multi-Turn LLM Agent Scheduling with KV  Cache Time-to-Live.md",
+      "destination": "content/blog/agent-infra/paper-reading/2511-Continuum Efficient and Robust Multi-Turn LLM Agent Scheduling with KV  Cache Time-to-Live.md",
+      "route": "/posts/2511-continuum/",
+      "sourceSha256": "bf8cd17d00e964e2fb66fa2c3fa980d91cff4ae61173a4cc19e3fb6c4124589d",
+      "draft": true,
+      "categories": [
+        "agent-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Continuum: Efficient and Robust Multi-Turn LLM Agent Scheduling with KV  Cache Time-to-Live",
+        "published": "2026-06-10T14:39:52.283Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "论文阅读笔记",
+          "Agent-Infra"
+        ],
+        "category": "Agent-Infra",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "2511-continuum"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/agent-infra/paper-reading/2601-Halo-Batch Query Processing and Optimization for Agentic Workflows.md",
+      "destination": "content/blog/agent-infra/paper-reading/2601-Halo-Batch Query Processing and Optimization for Agentic Workflows.md",
+      "route": "/posts/2601-halo/",
+      "sourceSha256": "2e6168eefd640206ad9b2086addd1fa57ae52e63173ee8b526cf3f2515a28503",
+      "draft": true,
+      "categories": [
+        "agent-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Halo: Batch Query Processing and Optimization for Agentic Workflows (2601)",
+        "published": "2026-06-10T14:20:12.644Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Agent-Infra",
+          "论文阅读笔记"
+        ],
+        "category": "Agent-Infra",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "2601-halo"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/agent-infra/paper-reading/2601-Scepsy-Serving Agentic Workflows Using  Aggregate LLM Pipelines.md",
+      "destination": "content/blog/agent-infra/paper-reading/2601-Scepsy-Serving Agentic Workflows Using  Aggregate LLM Pipelines.md",
+      "route": "/posts/2601-scepsy/",
+      "sourceSha256": "5024b93c6e96629285faf57501cf03bc512cfe7223fdd50ddffe8ea7e494263e",
+      "draft": false,
+      "categories": [
+        "agent-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Scepsy: Serving Agentic Workflows Using  Aggregate LLM Pipelines",
+        "published": "2026-06-16T09:32:52.520Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "论文阅读笔记",
+          "Agent-Infra"
+        ],
+        "category": "Agent-Infra",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "2601-scepsy"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/agent-infra/paper-reading/2603-Paste Act While Thinking Accelerating LLM Agents via Pattern-Aware  Speculative Tool Execution.md",
+      "destination": "content/blog/agent-infra/paper-reading/2603-Paste Act While Thinking Accelerating LLM Agents via Pattern-Aware  Speculative Tool Execution.md",
+      "route": "/posts/2603-paste/",
+      "sourceSha256": "f07145c22f0d9265000266bca4e4df1732c74d561f9ffa0ce7e326dc87cbb2cd",
+      "draft": true,
+      "categories": [
+        "agent-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Paste: Act While Thinking: Accelerating LLM Agents via Pattern-Aware  Speculative Tool Execution",
+        "published": "2026-06-10T15:09:08.360Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "论文阅读笔记",
+          "Agent-Infra"
+        ],
+        "category": "Agent-Infra",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "2603-paste"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/algos/博弈论（1）：Gale-Shapley 稳定匹配机制构造.md",
+      "destination": "content/blog/algos/博弈论（1）：Gale-Shapley 稳定匹配机制构造.md",
+      "route": "/posts/game-theory-gale-shapley/",
+      "sourceSha256": "4947fe890f8c1176b9b59e994a3cfe482bda6b4e96e69ae01dea55c4ba1dc7b7",
+      "draft": false,
+      "categories": [
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "博弈论（1）：Gale-Shapley 稳定匹配机制构造",
+        "published": "2026-05-10T08:46:28.640Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "博弈论"
+        ],
+        "category": "课程笔记",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "game-theory-gale-shapley"
+      },
+      "mathExpressions": 67,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/algos/博弈论（2）：标准形博弈.md",
+      "destination": "content/blog/algos/博弈论（2）：标准形博弈.md",
+      "route": "/posts/game-theory-normal-form-game/",
+      "sourceSha256": "8a486d90d9a0ec04626093028dc4e99b848b3395d3d61dc2dcbaff64c6113859",
+      "draft": false,
+      "categories": [
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "博弈论（2）：标准形博弈",
+        "published": "2026-05-10T19:29:03.117Z",
+        "description": "在很多现实问题中，一个人的决策结果不仅取决于自己的选择，还取决于其他人的行为。例如，企业定价会受到竞争对手影响，国家政策会影响其他国家的回应，求职者是否接受 offer 也会受到公司策略变化的影响。在这类问题中，决策主体之间形成了相互依赖：每个人都在根据别人可能采取的行动来调整自己的选择。\n\n传统的优化问题通常只研究给定环境下如何选择最优行动，而博弈论研究的问题则更进一步：环境本身也是由其他理性决策者共同构成的。因此，一个玩家面对的并不是固定世界，而是一个会随着所有人策略变化而不断变化的互动系统。\n\n**有限标准形博弈**（finite normal-form game）正是对这类策略相互依赖问题的一种最基本抽象。它用参与者、可选策略以及不同策略组合对应的收益，来描述一个完整的战略互动结构。",
+        "updated": "",
+        "tags": [
+          "博弈论"
+        ],
+        "category": "课程笔记",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "game-theory-normal-form-game"
+      },
+      "mathExpressions": 99,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/algos/博弈论（3）：纳什均衡.md",
+      "destination": "content/blog/algos/博弈论（3）：纳什均衡.md",
+      "route": "/posts/game-theory-nash-equilibre/",
+      "sourceSha256": "a2ed11759ba3a63648261fb42a8cfe1a24a76d0bfbf49614f302a16b8687850c",
+      "draft": true,
+      "categories": [
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "博弈论（3）：纳什均衡",
+        "published": "2026-05-11T10:54:23.034Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "博弈论"
+        ],
+        "category": "课程笔记",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "game-theory-nash-equilibre"
+      },
+      "mathExpressions": 68,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/algos/博弈论（4）：零和博弈.md",
+      "destination": "content/blog/algos/博弈论（4）：零和博弈.md",
+      "route": "/posts/zero-sum/",
+      "sourceSha256": "f20746a7e791b50701e90c8ea117bce1d9676ef2173ef2b35efebe5c607c2d0d",
+      "draft": true,
+      "categories": [
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "博弈论（4）：零和博弈",
+        "published": "2026-05-12T14:14:56.806Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "博弈论"
+        ],
+        "category": "课程笔记",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "zero-sum"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/algos/图论：最短路径问题.md",
+      "destination": "content/blog/algos/图论：最短路径问题.md",
+      "route": "/posts/graphy-theory-shortest-path/",
+      "sourceSha256": "74a961ea19ed587c1011feb09bc5f0462f8a5360d1553e3d1e53c3c931092888",
+      "draft": false,
+      "categories": [
+        "graph-theory",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "图论：最短路径问题",
+        "published": "2026-04-23T09:27:17.287Z",
+        "description": "图论：最短路径问题",
+        "updated": "2026-05-14T20:14:24.000Z",
+        "tags": [
+          "图论"
+        ],
+        "category": "图论",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "graphy-theory-shortest-path"
+      },
+      "mathExpressions": 110,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/algos/线性规划和单纯形法.md",
+      "destination": "content/blog/algos/线性规划和单纯形法.md",
+      "route": "/posts/linear-programming/",
+      "sourceSha256": "38315ba4e950466e8636c758347953af2b57071516c85cbc9419090333cc132f",
+      "draft": true,
+      "categories": [
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "线性规划和单纯形法",
+        "published": "2026-03-26T09:43:08.286Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "线性规划"
+        ],
+        "category": "课程笔记",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "linear-programming"
+      },
+      "mathExpressions": 70,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/communication/GPU 通信拓扑实战.md",
+      "destination": "content/blog/communication/GPU 通信拓扑实战.md",
+      "route": "/posts/gpu-topology/",
+      "sourceSha256": "58bef3b1ae1c46c916499f31a09c9a2c5d05c16e01ddd31f04f9ed867862fe9f",
+      "draft": false,
+      "categories": [
+        "communication",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "GPU 通信拓扑实战",
+        "published": "2026-05-27T08:19:09.449Z",
+        "description": "在 现代 AI 集群通信体系一文中我们分析了不同通信硬件、互连拓扑和网络协议栈，本文通过 `nvidia-smi topo -m` 展示的是服务器内部 GPU、NIC、CPU Socket、NUMA 与 PCIe/NVLink 的物理通信拓扑：本机中 GPU0-7 两两之间均为 `NV18`，说明 8 张 GPU 通过 NVLink/NVSwitch 形成了全互连高速 Fabric，因此节点内 GPU-GPU 通信通常直接走 NVLink，而不经过 CPU 与 NUMA hierarchy，非常适合 TP、EP、AllReduce 等高通信量并行；而跨节点通信时则需要关注 GPU 与 NIC 的 PCIe/NUMA 距离，此时 `PIX > NODE > SYS` 分别对应越来越远的 PCIe/NUMA 路径与更高通信代价，因此训练和推理框架（如 NCCL、Megatron、vLLM）通常会优先将 GPU 绑定到最近的 NIC，以减少 PCIe hierarchy 与跨 NUMA 带来的 latency 和 bandwidth loss。",
+        "updated": "",
+        "tags": [
+          "GPU",
+          "通信"
+        ],
+        "category": "通信",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "gpu-topology"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 3
+    },
+    {
+      "source": "src/content/posts/communication/Python ZMQ：消息传递库.md",
+      "destination": "content/blog/communication/Python ZMQ：消息传递库.md",
+      "route": "/posts/python-zmq/",
+      "sourceSha256": "3b82c189de037344b971883baba2829a46144636bfcf5ac9e15309f1d5819944",
+      "draft": false,
+      "categories": [
+        "communication",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Python ZMQ：消息传递库",
+        "published": "2026-05-19T11:30:48.882Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Python",
+          "通信"
+        ],
+        "category": "通信",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "python-zmq"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 2
+    },
+    {
+      "source": "src/content/posts/communication/客户端间通信模式.md",
+      "destination": "content/blog/communication/客户端间通信模式.md",
+      "route": "/posts/design-pattern-pub-sub/",
+      "sourceSha256": "d9c462921bf42bd71e2ef465f45a046f776dae882a5bac71205ba064715d59e2",
+      "draft": false,
+      "categories": [
+        "communication",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "客户端间通信模式",
+        "published": "2026-05-19T10:12:28.380Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "通信"
+        ],
+        "category": "通信",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "design-pattern-pub-sub"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 2
+    },
+    {
+      "source": "src/content/posts/communication/现代 AI 集群通信体系.md",
+      "destination": "content/blog/communication/现代 AI 集群通信体系.md",
+      "route": "/posts/ai-server-communication-basic/",
+      "sourceSha256": "8c687274362350e8fe24f1209af65af69eaf848367c0876c7f81a8d02be0fc94",
+      "draft": false,
+      "categories": [
+        "communication",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "现代 AI 集群通信体系",
+        "published": "2026-05-26T19:21:00.833Z",
+        "description": "这篇文章介绍了现代 AI / HPC 集群中的 GPU 通信体系，以及为什么“大模型训练”本质上越来越像一个网络系统问题。文章从单机内 GPU 互连开始，介绍 PCIe、NVLink 与 NVSwitch 的拓扑与数据流；再扩展到多机场景中的 RDMA、InfiniBand 与 RoCE，解释为什么跨机器通信会成为分布式训练与推理的核心瓶颈。",
+        "updated": "",
+        "tags": [
+          "通信",
+          "PCIe",
+          "NVLink",
+          "InfiniBand",
+          "RoCE"
+        ],
+        "category": "通信",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "ai-server-communication-basic"
+      },
+      "mathExpressions": 1,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/communication/集合通信操作和其实现.md",
+      "destination": "content/blog/communication/集合通信操作和其实现.md",
+      "route": "/posts/collective-communication/",
+      "sourceSha256": "01d2ec2097044f0f215c8dc78012475e78e99fcf41a36023aacd91c0f48fba53",
+      "draft": false,
+      "categories": [
+        "communication",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "集合通信操作和其实现",
+        "published": "2026-03-10T08:51:38.942Z",
+        "description": "**集合通信（Collective Communication）** 描述的是多个设备之间如何协同交换和聚合数据，其核心操作包括：Broadcast（一个设备向所有设备扩散数据）、Gather/Scatter（数据的收集与分发）、Reduce（对多个设备上的数据执行求和等归约计算）以及它们的 All 版本（所有设备最终都获得结果）。这些操作本质上是在回答两个问题：**数据该流向哪里（一个 / 所有）**，以及 **数据在流动过程中是否需要被计算（Reduce）**。在实际系统中，这些逻辑语义通常通过 Ring 通信实现：所有设备首尾相连形成环，每一步只与左右邻居通信，从而形成高带宽、可流水化的数据传输。基于这种思想，AllReduce 可以进一步分解为 `ReduceScatter + AllGather`：先让不同设备分别完成不同数据分片的归约计算，再将结果重新同步给所有设备。这种分解避免了单点聚合带来的瓶颈，也是现代分布式训练（如 DDP、ZeRO、Megatron 等）中的核心通信基础。对于 $p$ 个设备和大小为 $N$ 的 tensor，Ring AllReduce 的总通信量约为 $2\\frac{p-1}{p}N \\approx 2N$，这也是为什么 AllReduce 常被认为需要“约两倍 tensor 大小”的通信开销。",
+        "updated": "2026-05-06T06:01:13.000Z",
+        "tags": [
+          "集合通信",
+          "通信"
+        ],
+        "category": "通信",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "collective-communication"
+      },
+      "mathExpressions": 37,
+      "codeBlocks": 7
+    },
+    {
+      "source": "src/content/posts/compression/2605-Reducing the GPU Memory Bottleneck with Lossless  Compression for ML.md",
+      "destination": "content/blog/compression/2605-Reducing the GPU Memory Bottleneck with Lossless  Compression for ML.md",
+      "route": "/posts/2605-ibp/",
+      "sourceSha256": "569dadfb2650df6d0946870b563ebf754fb46dcd0eae3c1910744eb92a5a7a62",
+      "draft": false,
+      "categories": [
+        "tag"
+      ],
+      "sourceMetadata": {
+        "title": "reducing-paper",
+        "published": "2026-06-20T22:51:51.662Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "数据压缩",
+          "论文阅读笔记"
+        ],
+        "category": "Tag",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "2605-ibp"
+      },
+      "mathExpressions": 9,
+      "codeBlocks": 6
+    },
+    {
+      "source": "src/content/posts/cs/计算机系统设计总览.md",
+      "destination": "content/blog/cs/计算机系统设计总览.md",
+      "route": "/posts/cs/计算机系统设计总览/",
+      "sourceSha256": "de4d38270bbcf5bde48af50c8158c09293803d06752d119fb63a45fb34e562b5",
+      "draft": true,
+      "categories": [
+        "cs"
+      ],
+      "sourceMetadata": {
+        "title": "计算机系统设计总览",
+        "published": "2026-06-02T22:00:54.069Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "计算机系统"
+        ],
+        "category": "计算机系统设计",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": ""
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/cs-basics/C++ 基础（1）：Types, Structs, Structured Bindings.md",
+      "destination": "content/blog/cs-basics/C++ 基础（1）：Types, Structs, Structured Bindings.md",
+      "route": "/posts/cpp-1/",
+      "sourceSha256": "18b274178e1d919ce1b25708c7f1731b04333b4787ff0ae4199f6d9713c23688",
+      "draft": false,
+      "categories": [
+        "programming-language",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "C++ 基础（1）：Types, Structs, Structured Bindings",
+        "published": "2026-04-18T08:34:22.563Z",
+        "description": "在很多情况下（例如函数需要返回多个结果时），我们希望将多个相关的值**组合为一个整体进行返回**。C++ 提供了多种方式来对多个值进行建模与打包，例如使用 `struct`、`std::pair` 和 `std::tuple` 将多个值组合成一个类型。在调用端，可以通过 structured binding 对这些聚合类型进行高效而清晰的解包，从而方便地获取各个返回值。",
+        "updated": "",
+        "tags": [
+          "CPP"
+        ],
+        "category": "编程语言",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cpp-1"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 12
+    },
+    {
+      "source": "src/content/posts/cs-basics/C++ 基础（2）：STL Containers.md",
+      "destination": "content/blog/cs-basics/C++ 基础（2）：STL Containers.md",
+      "route": "/posts/cpp-2/",
+      "sourceSha256": "594a55fe41fdcafd568efa38aa9567aa42ec4bff7f67fabfa14dca4899ba994a",
+      "draft": false,
+      "categories": [
+        "programming-language",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "C++ 基础（2）：STL Containers",
+        "published": "2026-04-18T08:36:17.329Z",
+        "description": "本文首先介绍了 C++ STL 常用的容器，分别介绍了对应 Python 中的 `list()`, `dict()` 的容器，并且对于各容器的优缺点进行了总结；然后介绍了遍历容器的迭代器 Iterator，最后略微提及了可以指向所有类型的指针。",
+        "updated": "2026-04-24T20:00:04.000Z",
+        "tags": [
+          "CPP"
+        ],
+        "category": "编程语言",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cpp-2"
+      },
+      "mathExpressions": 1,
+      "codeBlocks": 3
+    },
+    {
+      "source": "src/content/posts/cs-basics/C++ 基础（3）：Streams.md",
+      "destination": "content/blog/cs-basics/C++ 基础（3）：Streams.md",
+      "route": "/posts/cpp-3/",
+      "sourceSha256": "5c106bb21faa138c48e8f2e0bc1625da867facf889c5a699a5ce0d6bcf20c5e2",
+      "draft": false,
+      "categories": [
+        "programming-language",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "C++ 基础（3）：Streams",
+        "published": "2026-04-24T18:54:54.532Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "CPP"
+        ],
+        "category": "编程语言",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cpp-3"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 7
+    },
+    {
+      "source": "src/content/posts/cs-basics/C++ 基础（4）：函数和 Lambda.md",
+      "destination": "content/blog/cs-basics/C++ 基础（4）：函数和 Lambda.md",
+      "route": "/posts/c-basics-lambda-functions/",
+      "sourceSha256": "79dfbc8c8c1f8468fde80e3ec1c2ab49ab5b2bdccd3b7d2219899b14ee789be0",
+      "draft": false,
+      "categories": [
+        "programming-language",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "C++ 基础（4）：函数和 Lambda",
+        "published": "2026-05-01T21:49:31.283Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "CPP"
+        ],
+        "category": "编程语言",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "c-basics-lambda-functions"
+      },
+      "mathExpressions": 3,
+      "codeBlocks": 4
+    },
+    {
+      "source": "src/content/posts/cs-basics/C++ 基础（5）：String.md",
+      "destination": "content/blog/cs-basics/C++ 基础（5）：String.md",
+      "route": "/posts/cpp-string/",
+      "sourceSha256": "196940d0efe34d85cfa19e49e887e2160035c90b92546f4055489d1e185e2395",
+      "draft": false,
+      "categories": [
+        "programming-language",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "C++ 基础（5）：String",
+        "published": "2026-05-03T09:13:37.731Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "CPP"
+        ],
+        "category": "编程语言",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cpp-string"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 3
+    },
+    {
+      "source": "src/content/posts/cs-basics/C++ 常用 API 一图流.md",
+      "destination": "content/blog/cs-basics/C++ 常用 API 一图流.md",
+      "route": "/posts/cpp-apis/",
+      "sourceSha256": "ac2d410be46219606a6b3791b11b34ddf809979779704c9be4ded43e0658d118",
+      "draft": false,
+      "categories": [
+        "programming-language",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "C++ 常用 API 一图流",
+        "published": "2026-04-24T19:39:32.170Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "CPP"
+        ],
+        "category": "编程语言",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cpp-apis"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/cs-basics/Git 基础 （1）：Git 对象和引用.md",
+      "destination": "content/blog/cs-basics/Git 基础 （1）：Git 对象和引用.md",
+      "route": "/posts/git-basics-1/",
+      "sourceSha256": "29a6490ddb308f6e8f310afb6bbc6fb416dd8128b773def06992d72bb397d36c",
+      "draft": false,
+      "categories": [
+        "misc"
+      ],
+      "sourceMetadata": {
+        "title": "Git 基础 （1）：Git 对象和引用",
+        "published": "2026-03-24T19:37:40.472Z",
+        "description": "",
+        "updated": "2026-04-10T11:11:30.472Z",
+        "tags": [
+          "Git"
+        ],
+        "category": "Misc.",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "git-basics-1"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 3
+    },
+    {
+      "source": "src/content/posts/cuda/CUDA Grid, Block, Thread 和寻址.md",
+      "destination": "content/blog/cuda/CUDA Grid, Block, Thread 和寻址.md",
+      "route": "/posts/cuda-indexing/",
+      "sourceSha256": "fc1e7a06173eee81fc066d6ac09a7f5e8480f2d3eea0a0daa49a236ac4bab7e6",
+      "draft": false,
+      "categories": [
+        "cuda",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "CUDA Grid, Block, Thread 和寻址",
+        "published": "2026-03-04T14:45:48.564Z",
+        "description": "本文从数据并行计算的角度出发，介绍 CUDA 中 Grid、Block 和 Thread 的分层组织方式，并解释如何通过线程索引将计算任务映射到具体数据。",
+        "updated": "2026-04-26T10:18:01.000Z",
+        "tags": [
+          "CUDA"
+        ],
+        "category": "CUDA编程",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cuda-indexing"
+      },
+      "mathExpressions": 11,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/cuda/CUDA Kernel Toy Example.md",
+      "destination": "content/blog/cuda/CUDA Kernel Toy Example.md",
+      "route": "/posts/cuda-basics/",
+      "sourceSha256": "a020f6016f82f0b3cbc0d65028ce3da253a2240f0588876d4951f6ef87ed1d65",
+      "draft": false,
+      "categories": [
+        "cuda",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "CUDA Kernel Toy Example",
+        "published": "2026-04-27T13:50:54.653Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "CUDA"
+        ],
+        "category": "CUDA编程",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cuda-basics"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/cuda/CUDA SGEMM Kernel 优化.md",
+      "destination": "content/blog/cuda/CUDA SGEMM Kernel 优化.md",
+      "route": "/posts/cuda-gemm-optimization/",
+      "sourceSha256": "f24f559e64c66923c0195cee5a411cf09d8c38d34d9d8b3fd5b2fda17501f756",
+      "draft": true,
+      "categories": [
+        "cuda",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "CUDA SGEMM Kernel 优化",
+        "published": "2026-04-26T10:25:12.000Z",
+        "description": "本文介绍如何优化 CUDA SGEMM Kernel.",
+        "updated": "",
+        "tags": [
+          "CUDA"
+        ],
+        "category": "CUDA编程",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cuda-gemm-optimization"
+      },
+      "mathExpressions": 66,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/cuda/基于 LD_PRELOAD 的 CUDA Runtime 拦截机制.md",
+      "destination": "content/blog/cuda/基于 LD_PRELOAD 的 CUDA Runtime 拦截机制.md",
+      "route": "/posts/cuda-interception/",
+      "sourceSha256": "bd00aa90a925a6433bde7804c311cb670b20df45dc8dbe24aa085f477fa88ba8",
+      "draft": false,
+      "categories": [
+        "cuda",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "基于 LD_PRELOAD 的 CUDA Runtime 拦截机制",
+        "published": "2026-05-27T16:15:59.465Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "CUDA"
+        ],
+        "category": "CUDA",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cuda-interception"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 4
+    },
+    {
+      "source": "src/content/posts/DSA/图论基础.md",
+      "destination": "content/blog/DSA/图论基础.md",
+      "route": "/posts/graph-basics/",
+      "sourceSha256": "6ff55cde8c8a6f5b0ff3fdd9447c23fbd6ac6f5e1ef4b2a39aa3494263c960df",
+      "draft": false,
+      "categories": [
+        "graph-theory",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "图论基础",
+        "published": "2026-05-16T08:14:08.395Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "数据结构",
+          "图论"
+        ],
+        "category": "图论",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "graph-basics"
+      },
+      "mathExpressions": 32,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/DSA/基本数据结构：二叉堆和优先级队列.md",
+      "destination": "content/blog/DSA/基本数据结构：二叉堆和优先级队列.md",
+      "route": "/posts/priority-queue/",
+      "sourceSha256": "9d0e2bafc7ab0c18e9aad70781aca0d1dc07b0339d3241e6d85163f9e3f66f72",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "基本数据结构：二叉堆和优先级队列",
+        "published": "2026-05-01T21:54:12.428Z",
+        "description": "优先级队列通常基于二叉堆实现，支持在 $O(1)$ 时间内访问当前最大/最小元素，并在 $O(\\log n)$ 时间内完成插入和删除操作，相比于每次线性扫描 $O(n)$，在需要频繁动态维护最值的场景中具有明显优势。",
+        "updated": "2026-05-16T07:59:21.000Z",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "priority-queue"
+      },
+      "mathExpressions": 6,
+      "codeBlocks": 2
+    },
+    {
+      "source": "src/content/posts/DSA/基本数据结构：动态数组.md",
+      "destination": "content/blog/DSA/基本数据结构：动态数组.md",
+      "route": "/posts/dynamic-array/",
+      "sourceSha256": "882c0b07fe06ca0846047e352cb51af0c130430da2e347bae457231a4c4e075b",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "基本数据结构：动态数组",
+        "published": "2026-04-28T09:33:23.073Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "dynamic-array"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/DSA/基本数据结构：循环数组.md",
+      "destination": "content/blog/DSA/基本数据结构：循环数组.md",
+      "route": "/posts/circular-array/",
+      "sourceSha256": "2cc10bf6ccd49c91b58c1e3970d1cefd0b1667e9e0a4e9aa3a0a0967b40c1707",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "基本数据结构：循环数组",
+        "published": "2026-04-23T21:05:22.192Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "circular-array"
+      },
+      "mathExpressions": 2,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/DSA/基本数据结构：栈和队列.md",
+      "destination": "content/blog/DSA/基本数据结构：栈和队列.md",
+      "route": "/posts/stack-and-queue/",
+      "sourceSha256": "85ddc1e7ec3fa9696263af4c42198ff92549421cef2c399d49710fa4ca23ca2b",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "基本数据结构：栈和队列",
+        "published": "2026-04-28T09:41:09.050Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "stack-and-queue"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/DSA/基本数据结构：链表.md",
+      "destination": "content/blog/DSA/基本数据结构：链表.md",
+      "route": "/posts/linked-list/",
+      "sourceSha256": "f2be66f2e1f882dbacdb708a05ea19c3bc40cfdf3f15f99aa94f0bf8cc45caea",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "基本数据结构：链表",
+        "published": "2026-04-25T08:52:42.011Z",
+        "description": "本文对于链表相关知识点进行了整理。",
+        "updated": "",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "linked-list"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/DSA/基本数据结构：键值对和哈希表.md",
+      "destination": "content/blog/DSA/基本数据结构：键值对和哈希表.md",
+      "route": "/posts/hash-table/",
+      "sourceSha256": "45744eb2baa781f91bd7ca5efdba30634b4c2cc4b1b42f2377d8f978db70cedb",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "基本数据结构：键值对和哈希表",
+        "published": "2026-04-23T21:36:16.110Z",
+        "description": "**哈希表** 是用来高效存储和查找键值 (key, value) 对的数据结构，使得任意 dict 结构的 `get, put, remove` 方法平均时间复杂度都是 $O(1)$. 哈希表的底层数据结构是**数组**。由于不同 key 可能映射到相同位置（**哈希冲突**），通常通过拉链法或开放寻址法来处理冲突，并通过优化哈希函数和控制负载因子（动态扩容）来降低冲突概率。为了保证哈希值的稳定性，key 通常要求是不可变对象。",
+        "updated": "2026-04-24T20:03:14.000Z",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "hash-table"
+      },
+      "mathExpressions": 4,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/DSA/数据结构：LRU 算法和哈希链表.md",
+      "destination": "content/blog/DSA/数据结构：LRU 算法和哈希链表.md",
+      "route": "/posts/lru/",
+      "sourceSha256": "53255303a13f855149dff0c0527e7b918f7bce309c3e06d1156bf48bc9e09be5",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "数据结构：LRU 算法和哈希链表",
+        "published": "2026-05-17T18:51:46.442Z",
+        "description": "**Least Recently Used (LRU)** 算法是一种缓存淘汰策略，用于在有限缓存空间中维护数据及其最近访问顺序。LRU 算法通常基于哈希表 + 双向链表，即**哈希链表**实现",
+        "updated": "",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "lru"
+      },
+      "mathExpressions": 4,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/DSA/数据结构：二叉搜索树.md",
+      "destination": "content/blog/DSA/数据结构：二叉搜索树.md",
+      "route": "/posts/binary-search-tree/",
+      "sourceSha256": "c14b99ebb156826f1a893ff0fe75fc811aa19da7ceec1e8c87b1e8c4664eabc7",
+      "draft": true,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "数据结构：二叉搜索树",
+        "published": "2026-05-03T08:56:54.415Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "binary-search-tree"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/DSA/数据结构：二叉树.md",
+      "destination": "content/blog/DSA/数据结构：二叉树.md",
+      "route": "/posts/binary-tree/",
+      "sourceSha256": "5665c9685f72c01cfe59e338520737cd332030535c0c8db8ec62364ba1da32ac",
+      "draft": true,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "数据结构：二叉树",
+        "published": "2026-05-03T08:55:55.213Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "binary-tree"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/DSA/数组操作技巧：前缀和计算.md",
+      "destination": "content/blog/DSA/数组操作技巧：前缀和计算.md",
+      "route": "/posts/leetcode-prefix-sum/",
+      "sourceSha256": "7a865adccfc16fa9ff43b80d1f593b375329e4108136b4552dd5d590c48b1863",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "数组操作技巧：前缀和计算",
+        "published": "2026-04-23T20:10:31.024Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Algorithms"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "leetcode-prefix-sum"
+      },
+      "mathExpressions": 10,
+      "codeBlocks": 2
+    },
+    {
+      "source": "src/content/posts/DSA/数组操作技巧：差分数组.md",
+      "destination": "content/blog/DSA/数组操作技巧：差分数组.md",
+      "route": "/posts/leetcode-difference-array/",
+      "sourceSha256": "c144b39e5fe02c541d9a3a1a52a8186ec156c19e092e88c41b933caf1f52ad62",
+      "draft": false,
+      "categories": [
+        "data-structures-and-algorithms",
+        "cs-basics"
+      ],
+      "sourceMetadata": {
+        "title": "数组操作技巧：差分数组",
+        "published": "2026-04-23T20:07:36.763Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "数据结构"
+        ],
+        "category": "数据结构和算法",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "leetcode-difference-array"
+      },
+      "mathExpressions": 2,
+      "codeBlocks": 2
+    },
+    {
+      "source": "src/content/posts/llm/LLM 基础：Attention.md",
+      "destination": "content/blog/llm/LLM 基础：Attention.md",
+      "route": "/posts/llm-basic-1/",
+      "sourceSha256": "77b3e8d6ee11af9f12323c27f9c8efcacac4952a9dfb92898495f8b296abac17",
+      "draft": false,
+      "categories": [
+        "llm-basics"
+      ],
+      "sourceMetadata": {
+        "title": "LLM 基础：Attention",
+        "published": "2026-03-01T15:24:05.272Z",
+        "description": "本文将会介绍 LLM 的核心部件 Attention.",
+        "updated": "2026-05-06T07:07:35.000Z",
+        "tags": [
+          "LLM-Attention"
+        ],
+        "category": "LLM 基础",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "zh",
+        "abbrlink": "llm-basic-1"
+      },
+      "mathExpressions": 95,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm/LLM 基础：Transformers.md",
+      "destination": "content/blog/llm/LLM 基础：Transformers.md",
+      "route": "/posts/transformers/",
+      "sourceSha256": "af980eba085059fa4e7569c84a06674f6aa3ddc883ac4680f5bd00a0433e5199",
+      "draft": true,
+      "categories": [
+        "llm-basics"
+      ],
+      "sourceMetadata": {
+        "title": "LLM 基础：Transformers",
+        "published": "2026-05-04T12:19:45.223Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM-Transformers"
+        ],
+        "category": "LLM 基础",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "transformers"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm/LLM 推理 Sampling.md",
+      "destination": "content/blog/llm/LLM 推理 Sampling.md",
+      "route": "/posts/llm-infra-sampling/",
+      "sourceSha256": "6d036d4fa1a4d682f420be9be313a82e1daa801f0b3747386cbc7cfd7070e0e5",
+      "draft": false,
+      "categories": [
+        "llm-basics"
+      ],
+      "sourceMetadata": {
+        "title": "LLM 推理 Sampling",
+        "published": "2026-04-11T20:57:23.862Z",
+        "description": "本文简单介绍了 LLM 推理采样的基本概念，并且介绍了不同采样方式和采样策略。",
+        "updated": "",
+        "tags": [
+          "LLM-Sampling"
+        ],
+        "category": "LLM 基础",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "llm-infra-sampling"
+      },
+      "mathExpressions": 40,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm/LoRA 和 Multi-LoRA：模型参数微调.md",
+      "destination": "content/blog/llm/LoRA 和 Multi-LoRA：模型参数微调.md",
+      "route": "/posts/lora/",
+      "sourceSha256": "704c424450f299a3e6f1448b79af7f0e5525bc45184187d6a96c1430cf497510",
+      "draft": false,
+      "categories": [
+        "llm-basics"
+      ],
+      "sourceMetadata": {
+        "title": "LoRA 和 Multi-LoRA：模型参数微调",
+        "published": "2026-05-04T09:06:50.273Z",
+        "description": "LoRA 在原模型权重上 $W$ 引入一个低秩结构的增量项（$\\Delta W = BA$），在不改变原参数的情况下，仅训练该低秩参数，从而在低维子空间中实现高效微调。",
+        "updated": "",
+        "tags": [
+          "LLM-LoRA"
+        ],
+        "category": "LLM 基础",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "lora"
+      },
+      "mathExpressions": 31,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm/MoE 模型基础.md",
+      "destination": "content/blog/llm/MoE 模型基础.md",
+      "route": "/posts/moe-basics/",
+      "sourceSha256": "499cf3a63c5a6408650ff6dfb5ab6e027b36a731705b1006f6ce379a15e45fb1",
+      "draft": false,
+      "categories": [
+        "llm-basics"
+      ],
+      "sourceMetadata": {
+        "title": "MoE 模型基础",
+        "published": "2026-03-24T19:33:03.058Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM",
+          "LLM-MoE"
+        ],
+        "category": "LLM 基础",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "moe-basics"
+      },
+      "mathExpressions": 17,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Attention (FA1).md",
+      "destination": "content/blog/llm-infra/attention/Flash Attention (FA1).md",
+      "route": "/posts/flash-attention-v1/",
+      "sourceSha256": "c39965b347d9ff757595bc5012066d1dd96f072812fd033e0ad87605e852ec34",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Flash Attention (FA1)",
+        "published": "2026-03-04T18:11:44.306Z",
+        "description": "FlashAttention 1 相较于标准 Attention 计算其更快的主要原因在于它是 IO-aware 的。其将注意力计算划分为能够放入 GPU 片上 SRAM（共享内存）的小块（tile），并通过 online softmax 逐步计算 softmax。中间结果始终保存在更快的 SRAM 中，而不会被写回 HBM。每个块的最终输出只在计算完成后写回一次 HBM。HBM 的数据访问量从原来的 $O(n^2)$ 降低到 $O(n \\cdot d)$, 其中 $d$ 是每个 head 的维度，达到了读取输入和写入输出所需的理论最小值。在 NVIDIA A100 上，对于长序列，FlashAttention 相比标准注意力通常可以获得 2–4 倍的加速。",
+        "updated": "2026-05-01T15:32:25.000Z",
+        "tags": [
+          "LLM-Infra",
+          "LLM-Attention"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "zh",
+        "abbrlink": "flash-attention-v1"
+      },
+      "mathExpressions": 81,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Attention 2 (FA2).md",
+      "destination": "content/blog/llm-infra/attention/Flash Attention 2 (FA2).md",
+      "route": "/posts/flash-attention-v2/",
+      "sourceSha256": "d761c8ca1922e0c040e86abd47570c31b4ae106686bc32af1c4990c2d129f490",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Flash Attention 2 (FA2)",
+        "published": "2026-04-21T21:01:48.565Z",
+        "description": "**Flash Attention V2** 在 Flash Attention V1 的基础上，从计算模式与并行策略两个层面进行了共四点系统性优化。在算法层面，FA2 **减少了非矩阵乘法运算**（例如不必要的 rescale 和 normalize 等逐元素操作），使整体计算过程更加接近连续的 GEMM。同时，对于 causal masking，FA2 采用了更高效的处理方式，尽量**避免在被 mask 的区域上进行无效计算**，进一步提升了计算效率。\n\n在并行化方面，FA2 沿 sequence length（即 $Q$ 维度）引入了**更细粒度的并行划分**，将原本较粗粒度的计算任务拆分并分配给更多的 thread block，从而显著提高了硬件并行度与资源利用率。在 thread block 内部，FA2 **重新设计了 warp 的工作分配方式**，使不同 warp 分别负责不同的 $Q$ 子块（对应不同输出行），从而避免多个 warp 同时对同一输出进行并行写入且避免了对中间结果的合并需求，显著降低了 warp 间的同步与通信开销。",
+        "updated": "2026-04-22T14:44:00.000Z",
+        "tags": [
+          "LLM-Infra",
+          "LLM-Attention"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "flash-attention-v2"
+      },
+      "mathExpressions": 47,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Decoding.md",
+      "destination": "content/blog/llm-infra/attention/Flash Decoding.md",
+      "route": "/posts/flash-decoding/",
+      "sourceSha256": "23aa15cfa5b728d7b5f6049dd2e6800e43669f0d38e419efd5c2457cbadb7f74",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Flash Decoding",
+        "published": "2026-04-22T14:49:36.954Z",
+        "description": "FlashAttention 在训练和 prefill 阶段可以借助 batch 和 sequence length 提供充足的并行度，从而高效利用 GPU；但在 decode 阶段，每一步仅涉及单个 query，导致可并行的计算任务数量有限，从而难以填满 GPU，单 step 的 SM 利用率较低。\nFlash Decoding利用 online softmax 中间状态 $(m,l,O)$ 的可结合性，将原本的串行递推过程重写为**并行分块计算 + 规约合并**：显著提升了 decode 阶段的 SM 利用率。",
+        "updated": "2026-05-01T15:33:24.000Z",
+        "tags": [
+          "LLM-Infra",
+          "LLM-Attention"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "flash-decoding"
+      },
+      "mathExpressions": 28,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/Chunked Prefill.md",
+      "destination": "content/blog/llm-infra/Chunked Prefill.md",
+      "route": "/posts/chunked-prefill/",
+      "sourceSha256": "9029332bffecc49a3bfd7e1005047340e160e626518c4d7afaed8cb72417e43c",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Chunked Prefill",
+        "published": "2026-04-19T10:14:35.442Z",
+        "description": "**Chunked Prefill** 通过将原本规模为 $O(S^2)$ 的 Causal Attention 计算重排为若干较小的分块计算，从而降低 Prefill 阶段的峰值显存占用，以及使得调度单元变得更加细粒度。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "Parallelism"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "chunked-prefill"
+      },
+      "mathExpressions": 11,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/Continuous Batching.md",
+      "destination": "content/blog/llm-infra/Continuous Batching.md",
+      "route": "/posts/continuous-batching/",
+      "sourceSha256": "22e4dcb35996abaa8feb26689d6916195a91b60d34d6a484ed022810d28c36d9",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Continuous Batching",
+        "published": "2026-05-01T17:29:43.639Z",
+        "description": "Continuous batching 是一种面向在线推理的调度机制，在每个 decode step 动态组织当前活跃请求，从而避免 padding 和长尾带来的资源浪费，提高系统吞吐、提高 GPU 利用率.",
+        "updated": "2026-05-04T21:46:45.000Z",
+        "tags": [
+          "LLM-Infra"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "continuous-batching"
+      },
+      "mathExpressions": 3,
+      "codeBlocks": 5
+    },
+    {
+      "source": "src/content/posts/llm-infra/CUDA Graph：合并多个算子.md",
+      "destination": "content/blog/llm-infra/CUDA Graph：合并多个算子.md",
+      "route": "/posts/cuda-graph/",
+      "sourceSha256": "e13e39fda08a2dbed04d236448755e577adb72b2a9ed49c696a057adc54f5c05",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "CUDA Graph：合并多个算子",
+        "published": "2026-05-14T16:14:50.003Z",
+        "description": "在 CUDA 编程模型中，CPU 不断向 GPU 提交 CUDA kernels，而一个 Transformer forward 则会进一步拆解成大量这样的 kernel 调用。即使单个 kernel 很快，CPU 发起 kernel launch 仍然存在固定开销，包括 runtime 调度、参数准备、driver 调用以及 GPU command queue 提交等。\n\n在大模型推理中，模型结构通常是固定的，尤其是在 decode 阶段，执行路径会高度重复：每一层做相同的计算，只是输入数据不同。因此，大量 iteration 实际上是在重复提交几乎相同的一串 kernels。\n\nCUDA Graph 的核心思想，就是把这一整段 GPU 执行流程提前录制下来并复用。录制过程中，CUDA runtime 会捕获 kernel 的执行顺序、依赖关系以及相关 memory operations，形成一个 executable graph。之后再次执行时，CPU 不再需要逐个 launch kernel，而是只需一次 graph launch，就可以让 GPU 按照预先记录好的 execution graph 执行整段计算。",
+        "updated": "2026-05-15T10:16:52.000Z",
+        "tags": [
+          "LLM-Infra"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "cuda-graph"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/kv-cache-memory/Paged Attention：高效管理 KV Cache.md",
+      "destination": "content/blog/llm-infra/kv-cache-memory/Paged Attention：高效管理 KV Cache.md",
+      "route": "/posts/paged-attention/",
+      "sourceSha256": "3b7e2ee17066e0e901f477557c9dfb6d9ba8eb46a12f08ebfcdd1fa2c3638c0f",
+      "draft": false,
+      "categories": [
+        "kvcache-optimization",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Paged Attention：高效管理 KV Cache",
+        "published": "2026-05-03T22:51:43.774Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM-KVCache"
+        ],
+        "category": "KV Cache 优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "paged-attention"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/kv-cache-memory/Prefix Cache：前缀 KV Cache 缓存.md",
+      "destination": "content/blog/llm-infra/kv-cache-memory/Prefix Cache：前缀 KV Cache 缓存.md",
+      "route": "/posts/llm-infra-prefix-cache/",
+      "sourceSha256": "98d3ddfd84e405f62d17060d1e0c8927198859cf3075807fd1e62cfa720fcb2c",
+      "draft": false,
+      "categories": [
+        "kvcache-optimization",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Prefix Cache：前缀 KV Cache 缓存",
+        "published": "2026-04-11T09:21:04.373Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "LLM-KVCache"
+        ],
+        "category": "KV Cache 优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "llm-infra-prefix-cache"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理基础术语解释.md",
+      "destination": "content/blog/llm-infra/LLM 推理基础术语解释.md",
+      "route": "/posts/inference-terms-basic/",
+      "sourceSha256": "cda21b432ed3b12b2973649d2a7430e47ce4d28ae2b1c64fe3d1938122b6e2b8",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "LLM 推理基础术语解释",
+        "published": "2026-03-03T15:19:05.177Z",
+        "description": "在大模型推理系统中，涉及 batching、KV Cache、Prefill/Decode、并行策略等大量概念。本文将对这些关键机制进行系统梳理。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "zh",
+        "abbrlink": "inference-terms-basic"
+      },
+      "mathExpressions": 40,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理知识大纲.md",
+      "destination": "content/blog/llm-infra/LLM 推理知识大纲.md",
+      "route": "/posts/llm-infra/",
+      "sourceSha256": "7b5ff3a32c47c4c8dc4b61cd411d770336905267ebd0dac8f9d98ddd30f2d106",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "LLM 推理知识大纲",
+        "published": "2026-04-20T09:05:08.527Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM-Infra"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 99,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "llm-infra"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/Online Softmax 推导.md",
+      "destination": "content/blog/llm-infra/Online Softmax 推导.md",
+      "route": "/posts/online-softmax/",
+      "sourceSha256": "c044896d6d64123de1a6c8973ef79b305d0d19aed9425bb1db5228f6d64c787b",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Online Softmax 推导",
+        "published": "2026-04-20T15:55:30.843Z",
+        "description": "Online softmax 通过维护可增量更新的中间状态 $(m,l)$，将原本需要全局两次归约（max 与 sum）的计算转化为可流式处理的形式，从而避免额外遍历，并使 softmax 支持分块计算与归并。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "数学"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "online-softmax"
+      },
+      "mathExpressions": 77,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/DeepSpeed Ulysses：Attention Block 的序列并行.md",
+      "destination": "content/blog/llm-infra/parallel/DeepSpeed Ulysses：Attention Block 的序列并行.md",
+      "route": "/posts/deepspeed-ulysses/",
+      "sourceSha256": "b69ee6e84c23faef5f76231794ef62822390bd9c58de23bd5ecbe43d5f021ad9",
+      "draft": false,
+      "categories": [
+        "llm-parallelism",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "DeepSpeed Ulysses：Attention Block 的序列并行",
+        "published": "2026-04-19T09:51:46.458Z",
+        "description": "SP 因为 Attention 计算在序列维度 $s$ 上的数据依赖而变得困难，DeepSpeed Ulysses 通过在 Attention 计算之前引入 All-to-All 通信来将原本按 sequence 切分的数据重排为按 head 切分，使得每个设备能够在本地对完整序列、但仅部分 attention heads 执行计算，从而实现高效的分布式并行。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "Parallelism"
+        ],
+        "category": "LLM 推理并行优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "deepspeed-ulysses"
+      },
+      "mathExpressions": 4,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/EPLB：MoE Expert 负载均衡.md",
+      "destination": "content/blog/llm-infra/parallel/EPLB：MoE Expert 负载均衡.md",
+      "route": "/posts/eplb/",
+      "sourceSha256": "32b7f210f3064a8628da2436c7b9a2af80e6490b56c21e741d40433f984bc28d",
+      "draft": false,
+      "categories": [
+        "llm-parallelism",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "EPLB：MoE Expert 负载均衡",
+        "published": "2026-05-04T07:38:34.699Z",
+        "description": "在 Mixture-of-Experts (MoE) 架构中，token 通过 gating 网络被动态路由到不同专家，导致 expert-level 的输入分布呈现明显的偏斜。当这些专家被分布到多个 GPU 上执行时，这种不均匀的 token 分布会直接转化为设备级的计算负载不均衡。EPLB 用于在推理阶段使不同设备/节点上的 MoE Expert 负载均衡。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "LLM-MoE"
+        ],
+        "category": "LLM 推理并行优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "eplb"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Pipeline Parallel：模型并行.md",
+      "destination": "content/blog/llm-infra/parallel/Pipeline Parallel：模型并行.md",
+      "route": "/posts/pipeline-parallel/",
+      "sourceSha256": "d9736d1954a040d15ee88e49d3242a50f2791b915d786e2913590cc1d14fd9be",
+      "draft": false,
+      "categories": [
+        "llm-parallelism",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Pipeline Parallel：模型并行",
+        "published": "2026-05-03T22:38:37.522Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "Parallelism"
+        ],
+        "category": "LLM 推理并行优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "pipeline-parallel"
+      },
+      "mathExpressions": 12,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Ring Attention：Attention Block 的序列并行.md",
+      "destination": "content/blog/llm-infra/parallel/Ring Attention：Attention Block 的序列并行.md",
+      "route": "/posts/ring-attention/",
+      "sourceSha256": "da1ba8b75940dbbafdf1226c65e5797139473e91f0809d83172c0ebe21263455",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Ring Attention：Attention Block 的序列并行",
+        "published": "2026-04-21T20:10:59.494Z",
+        "description": "在长上下文场景下，序列并行（Sequence Parallelism）通常用于切分 seq_len 维度。然而 Attention 计算具有全局依赖性：每个 Query 都需要访问完整的 KV 序列，这使得序列维度上的直接切分变得困难。同时，在长序列场景下，单个设备往往无法容纳完整的 KV Cache，因此需要对 KV 进行分布式存储。在序列并行下，需要先 AllGather 从所有设备收集完整 KV Cache，再在本地算局部 Q shard 的 attention 计算。\n\n为了解决这一问题，**Ring Attention** 在 Attention 计算过程中将 AllGather 操作替代为使用 **ring 通信机制** 在设备之间轮转 KV 块，采用 **blockwise / online softmax** 的方式完成 Attention 计算。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "LLM-Attention"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "ring-attention"
+      },
+      "mathExpressions": 12,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/ZeRO 和 FSDP：DP优化——将模型参数和中间状态分片到多卡.md",
+      "destination": "content/blog/llm-infra/parallel/ZeRO 和 FSDP：DP优化——将模型参数和中间状态分片到多卡.md",
+      "route": "/posts/zero/",
+      "sourceSha256": "64b9cd95254e1dff5f3fb4ab7b4ab95a48e3beda444ea5b977b7906aed83f158",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "ZeRO 和 FSDP：DP优化——将模型参数和中间状态分片到多卡",
+        "published": "2026-05-03T20:40:00.127Z",
+        "description": "在传统数据并行中，每个设备都维护完整的模型参数、梯度以及优化器状态，导致显著的内存冗余。\n**ZeRO（Zero Redundancy Optimizer）通过对这些状态进行分布式切分来消除冗余存储，在可控的通信开销下显著降低单设备的内存占用。**  ZeRO 分为三个阶段（ZeRO-1 至 ZeRO-3），逐步对优化器状态、梯度以及模型参数进行切分。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "Parallelism"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "zero"
+      },
+      "mathExpressions": 9,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/llm-infra/pdd/DistServe.md",
+      "destination": "content/blog/llm-infra/pdd/DistServe.md",
+      "route": "/posts/distserve/",
+      "sourceSha256": "7c407174edcab5b91566903e74dad87dbd62d35f4302a783c389ca149eafa5af",
+      "draft": false,
+      "categories": [
+        "pd-disaggregation",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "DistServe",
+        "published": "2026-06-03T08:32:25.917Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM-PD分离",
+          "论文阅读笔记"
+        ],
+        "category": "Prefill-Decode 分离",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "distserve"
+      },
+      "mathExpressions": 1,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/pdd/大模型推理批处理和吞吐优化.md",
+      "destination": "content/blog/llm-infra/pdd/大模型推理批处理和吞吐优化.md",
+      "route": "/posts/batch-processing/",
+      "sourceSha256": "c467dad7ace1eda0070037d4e8d5caae2c6783d5f422dfc27d1f35e797530d08",
+      "draft": false,
+      "categories": [
+        "pd-disaggregation",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "大模型推理批处理和吞吐优化",
+        "published": "2026-05-06T09:16:25.358Z",
+        "description": "通过 Roofline 模型 可以发现：Transformer 在不同阶段的性能瓶颈并不相同。对于 Prefill 阶段，由于 sequence length 较长，Attention 和 FFN 通常已经能够形成较大的矩阵乘法，因此 batch size 对 arithmetic intensity 的提升有限；而在 Decode 阶段，由于每次仅生成一个 token，FFN / Linear 层会退化为小规模 GEMV，算术强度显著下降，更容易受到 memory bandwidth 限制。此时增大 batch size 可以将 GEMV 重新转化为更高效的 GEMM，从而显著提升 GPU 利用率与整体吞吐。\n\n与此同时，Attention 层在 Decode 阶段的 arithmetic intensity 与 batch size 基本无关，因此批处理对其性能提升有限，甚至可能因为 BMM 工作量增加而带来额外延迟。整体来看，LLM 推理中的 batching 收益主要来自 Decode 阶段 Dense Layer 的吞吐提升，而不是 Attention 本身。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "LLM-PD分离"
+        ],
+        "category": "Prefill-Decode 分离",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "batch-processing"
+      },
+      "mathExpressions": 18,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/Punica：Multi-LoRA 推理优化.md",
+      "destination": "content/blog/llm-infra/Punica：Multi-LoRA 推理优化.md",
+      "route": "/posts/punica/",
+      "sourceSha256": "dccf73c77e08bef888e19be76a34d9351e0c899c09b954d9cddd66957685ad0b",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Punica：Multi-LoRA 推理优化",
+        "published": "2026-05-04T09:48:36.969Z",
+        "description": "Punica 将 Multi-LoRA 推理中按请求执行的 for-loop 重写为分段聚合的矩阵向量计算（SGMV），在一个融合 kernel 中同时处理多个 LoRA Adapter，从而避免小规模 GEMV 的频繁调度，显著提升 GPU 利用率。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "LLM-LoRA"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "punica"
+      },
+      "mathExpressions": 10,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/llm-infra/Roofline Model：从算术强度出发理解性能瓶颈.md",
+      "destination": "content/blog/llm-infra/Roofline Model：从算术强度出发理解性能瓶颈.md",
+      "route": "/posts/roofline-model/",
+      "sourceSha256": "3957dadd3b34e9314d17cd27ef6ac4ba81a06b78211024503d5ccb6bb1ae3efb",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Roofline Model：从算术强度出发理解性能瓶颈",
+        "published": "2026-05-01T11:55:02.856Z",
+        "description": "Roofline Model 用于衡量一个运算 / kernel 在特定计算平台（例如 GPU 或 TPU）上是计算受限（compute-bound）还是内存受限（memory-bound）。任何一个计算过程都同时受到**计算能力**和**内存带宽**两方面的约束，最终性能由两者中较小值决定。Roofline 模型不仅可以判断算子/模型的 Arithmetic Intensity 是否过低（导致 memory-bound），更重要的是用于定位性能瓶颈，指导优化方向。",
+        "updated": "2026-05-02T07:56:25.000Z",
+        "tags": [
+          "LLM-Infra",
+          "LLM-PD分离"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "roofline-model"
+      },
+      "mathExpressions": 26,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-infra/大模型推理并行策略.md",
+      "destination": "content/blog/llm-infra/大模型推理并行策略.md",
+      "route": "/posts/parallelize-method/",
+      "sourceSha256": "df4f032c3766b31cef933ccc0104a121c0dcd1819812aeff468eebef0ad0684f",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "大模型推理并行策略：DP/TP/SP/PP",
+        "published": "2026-04-17T06:09:48.500Z",
+        "description": "为了突破单设备的计算与内存瓶颈，大模型推理通常通过并行化计算与数据分布来提升吞吐和降低延迟。本文简单介绍了几种常见的大模型推理并行策略：DP/TP/SP/PP.",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "Parallelism"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "parallelize-method"
+      },
+      "mathExpressions": 45,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/llm-security/LLM Serving 系统的安全威胁与攻击.md",
+      "destination": "content/blog/llm-security/LLM Serving 系统的安全威胁与攻击.md",
+      "route": "/posts/llm-serving-security-overview/",
+      "sourceSha256": "a6a1dd153400e8d7cf7282320ff42f0de227c8e2cad361d016f806b521ab522e",
+      "draft": false,
+      "categories": [
+        "ai-infra-security"
+      ],
+      "sourceMetadata": {
+        "title": "LLM Serving 系统的安全威胁与攻击",
+        "published": "2026-06-05T07:46:58.317Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM-Security"
+        ],
+        "category": "LLM 推理系统安全",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "llm-serving-security-overview"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/misc/Slurm 基本命令.md",
+      "destination": "content/blog/misc/Slurm 基本命令.md",
+      "route": "/posts/slurm-guide/",
+      "sourceSha256": "8e9b8273a1bbe363a1a921c2c816e8a956038ef6e62458974d818c30e1f115d7",
+      "draft": false,
+      "categories": [
+        "misc"
+      ],
+      "sourceMetadata": {
+        "title": "Slurm 基本命令",
+        "published": "2026-06-11T09:11:12.214Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Slurm"
+        ],
+        "category": "Misc.",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "slurm-guide"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 7
+    },
+    {
+      "source": "src/content/posts/misc/估计与统计识别.md",
+      "destination": "content/blog/misc/估计与统计识别.md",
+      "route": "/posts/math-estimation/",
+      "sourceSha256": "6ceb71bff84f76d52896f6a2b790bf8c8ce378d0689fbaf3722093fec40f5c2a",
+      "draft": false,
+      "categories": [
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "估计与统计识别",
+        "published": "2026-05-14T18:52:04.089Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "课程笔记",
+          "数学"
+        ],
+        "category": "课程笔记",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "math-estimation"
+      },
+      "mathExpressions": 172,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/misc/信息论及其应用.md",
+      "destination": "content/blog/misc/信息论及其应用.md",
+      "route": "/posts/information-theory/",
+      "sourceSha256": "26abbc931c308c7ca2abfc1b77e10f366f0be6aa2b6aa2f352b039a0e7fe44f6",
+      "draft": false,
+      "categories": [
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "信息论及其应用",
+        "published": "2026-05-14T20:58:32.531Z",
+        "description": "**信息论**（information theory）研究的核心问题是消息在不确定性意义上带来了多少信息。如果一个事件本来几乎必然发生，那么它发生时不会带来多少新信息；如果一个事件本来极不可能发生，那么它一旦发生，就显著减少了我们对世界的无知。围绕这个直觉，信息论建立了一套用概率刻画信息、压缩、加密与通信可靠性的体系。本文对信息论的基本概念、压缩与信道编码、线性分组码、有限域、BCH 码与 Reed–Solomon 码进行总结。",
+        "updated": "",
+        "tags": [
+          "课程笔记",
+          "信息论"
+        ],
+        "category": "课程笔记",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "information-theory"
+      },
+      "mathExpressions": 367,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/misc/在无 sudo 权限下安装和管理二进制软件：使用 conda.md",
+      "destination": "content/blog/misc/在无 sudo 权限下安装和管理二进制软件：使用 conda.md",
+      "route": "/posts/conda-manage-binary-software/",
+      "sourceSha256": "079e0c3c7463c0d94edbae9b009a71e1dbe9a0fd28949e23066ff087b08da3c5",
+      "draft": false,
+      "categories": [
+        "misc"
+      ],
+      "sourceMetadata": {
+        "title": "在无 sudo 权限下安装和管理二进制软件：使用 conda",
+        "published": "2026-04-26T12:10:46.250Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Misc"
+        ],
+        "category": "Misc.",
+        "draft": false,
+        "pin": 0,
+        "toc": false,
+        "lang": "",
+        "abbrlink": "conda-manage-binary-software"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/misc/正向代理和反向代理.md",
+      "destination": "content/blog/misc/正向代理和反向代理.md",
+      "route": "/posts/forward-reverse-proxy/",
+      "sourceSha256": "22ce8b99047331334b22094b11de47890cb01240dc5a0292db33fa2e607bd021",
+      "draft": false,
+      "categories": [
+        "misc"
+      ],
+      "sourceMetadata": {
+        "title": "正向代理和反向代理",
+        "published": "2026-06-18T13:11:40.906Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Misc",
+          "Proxy"
+        ],
+        "category": "Misc.",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "forward-reverse-proxy"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/misc/远程服务器复用本地网络科学上网.md",
+      "destination": "content/blog/misc/远程服务器复用本地网络科学上网.md",
+      "route": "/posts/reverse-proxy/",
+      "sourceSha256": "f009effed4b81227fe180c3f7ae25a534d681443b3545a55bdc4b60a00a09ef7",
+      "draft": false,
+      "categories": [
+        "misc"
+      ],
+      "sourceMetadata": {
+        "title": "远程服务器复用本地网络科学上网",
+        "published": "2026-05-01T12:04:46.686Z",
+        "description": "在某些环境中远程机器无法直接访问外网，导致无法在远程机器上下载 HuggingFace 模型、无法调用 OpenAI / Codex API，pip install 或 git clone 失败等等情况。我们希望能够让远程机器借用自己本地电脑的网络来对这些网站和服务器进行访问。\n\n本文将介绍基于这个思路的解决方案和实现方式。本质上，我们通过 SSH 隧道把远程服务器的请求转运到本地，再由本地去访问互联网，最后把结果再返回给远程。",
+        "updated": "2026-05-02T10:42:13.000Z",
+        "tags": [
+          "Misc"
+        ],
+        "category": "Misc",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "reverse-proxy"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 6
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/多轮对话论文整理.md",
+      "destination": "content/blog/multi-round-chatbot/多轮对话论文整理.md",
+      "route": "/posts/multi-round-chatbot/多轮对话论文整理/",
+      "sourceSha256": "80f07b163c5b9b76346b84f345e758ef261876c2d2fd7d73ae0cfb5e3a739c9d",
+      "draft": false,
+      "categories": [
+        "tag"
+      ],
+      "sourceMetadata": {
+        "title": "多轮对话论文整理",
+        "published": "2026-07-14T09:14:44.048Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "多轮对话推理优化"
+        ],
+        "category": "Tag",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": ""
+      },
+      "mathExpressions": 9,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/paper-reading/LLM Emulation：Revati 和 LLM-Emu.md",
+      "destination": "content/blog/paper-reading/LLM Emulation：Revati 和 LLM-Emu.md",
+      "route": "/posts/llm-simulator/",
+      "sourceSha256": "b9b16961175d344038756ed041896a859aaa69e0e2618869643d8d34ee9bdb07",
+      "draft": false,
+      "categories": [
+        "llm-simulator",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "【论文阅读笔记】LLM Emulation：Revati 和 LLM-Emu",
+        "published": "2026-05-24T20:24:04.974Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM模拟器"
+        ],
+        "category": "LLM 模拟器",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "llm-simulator"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/parallelism/矩阵乘法并行化.md",
+      "destination": "content/blog/parallelism/矩阵乘法并行化.md",
+      "route": "/posts/gemm-parallel-optimization/",
+      "sourceSha256": "fe982efd6c612d4306c3a39312f5902619454b79463709dad11b673d65183c54",
+      "draft": false,
+      "categories": [
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "LLM 推理基础：矩阵乘法并行化",
+        "published": "2026-04-17T07:15:09.748Z",
+        "description": "本文简单介绍 GEMM 运算的几种常见的并行计算方式。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "数学",
+          "Parallelism"
+        ],
+        "category": "LLM 推理优化",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "gemm-parallel-optimization"
+      },
+      "mathExpressions": 17,
+      "codeBlocks": 1
+    },
+    {
+      "source": "src/content/posts/rl/强化学习基础（1）：马尔可夫决策过程.md",
+      "destination": "content/blog/rl/强化学习基础（1）：马尔可夫决策过程.md",
+      "route": "/posts/markov-chain/",
+      "sourceSha256": "f1397fc70ca96319872795a916299335f15af85201ef5b9e4c7f9072379d2193",
+      "draft": false,
+      "categories": [
+        "reinforcement-learning",
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "强化学习基础（1）：马尔可夫决策过程",
+        "published": "2026-03-21T17:51:58.499Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "强化学习"
+        ],
+        "category": "强化学习",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "markov-chain"
+      },
+      "mathExpressions": 152,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/rl/强化学习基础（2）：时序差分算法.md",
+      "destination": "content/blog/rl/强化学习基础（2）：时序差分算法.md",
+      "route": "/posts/temporal-difference/",
+      "sourceSha256": "9fb83331997ac7bc17beae7ff7bc15913478099dcd12a635cce68b3757531522",
+      "draft": false,
+      "categories": [
+        "reinforcement-learning",
+        "course-notes"
+      ],
+      "sourceMetadata": {
+        "title": "强化学习基础（2）：时序差分算法",
+        "published": "2026-03-26T18:09:22.335Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "强化学习"
+        ],
+        "category": "强化学习",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "temporal-difference"
+      },
+      "mathExpressions": 74,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/vLLM/LLM 推理框架.md",
+      "destination": "content/blog/vLLM/LLM 推理框架.md",
+      "route": "/posts/llm-infra-infrastructure/",
+      "sourceSha256": "a9784fbaf8d2dca3c473acd8dd3ce2f41616ad498d24479b1be89636a5f34c12",
+      "draft": false,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "LLM 推理框架",
+        "published": "2026-04-20T09:53:26.420Z",
+        "description": "LLM 推理框架介绍",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "Nano-vLLM",
+          "vLLM"
+        ],
+        "category": "LLM 推理平台",
+        "draft": false,
+        "pin": 98,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "llm-infra-infrastructure"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 0
+    },
+    {
+      "source": "src/content/posts/vLLM/Nano vLLM 解读（1）：LLMEngine 架构与推理流程解析.md",
+      "destination": "content/blog/vLLM/Nano vLLM 解读（1）：LLMEngine 架构与推理流程解析.md",
+      "route": "/posts/nano-vllm-engine/",
+      "sourceSha256": "80acca2173b510c2cf6e5d407eec8f1cf51dae42fbb28e2f00c9f7b1ac6e9d35",
+      "draft": false,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Nano vLLM 解读（1）：LLMEngine 架构与推理流程解析",
+        "published": "2026-04-19T13:28:49.265Z",
+        "description": "本文介绍了在 Nano-vLLM 系统中，请求是如何被封装、调度，并最终驱动模型推理的。重点关注 LLM Engine 这一层如何连接用户 API 与底层执行系统。",
+        "updated": "2026-05-04T18:25:58.000Z",
+        "tags": [
+          "LLM-Infra",
+          "Nano-vLLM"
+        ],
+        "category": "LLM 推理平台",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "nano-vllm-engine"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 3
+    },
+    {
+      "source": "src/content/posts/vLLM/Nano vLLM 解读（2）：解析 Sequence.md",
+      "destination": "content/blog/vLLM/Nano vLLM 解读（2）：解析 Sequence.md",
+      "route": "/posts/nano-vllm-sequence/",
+      "sourceSha256": "d12245bbfb0e4eaf85ae156c50963c2177e066b87f1c5c35002f45eedb7ac421",
+      "draft": false,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Nano vLLM 解读（2）：解析 Sequence",
+        "published": "2026-04-20T13:24:46.446Z",
+        "description": "本文介绍了在 Nano-vLLM 系统中基本请求执行单位 `Sequence` 的实现。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "Nano-vLLM"
+        ],
+        "category": "LLM 推理平台",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "nano-vllm-sequence"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 2
+    },
+    {
+      "source": "src/content/posts/vLLM/Nano vLLM 解读（3）：解析 Scheduler.md",
+      "destination": "content/blog/vLLM/Nano vLLM 解读（3）：解析 Scheduler.md",
+      "route": "/posts/nano-vllm-scheduler/",
+      "sourceSha256": "6bcf38f9be8f73b83361cabe1eba72dc423fb6cc9dbccda703b6e88b8669daa1",
+      "draft": false,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Nano vLLM 解读（3）：解析 Scheduler",
+        "published": "2026-04-21T20:43:31.000Z",
+        "description": "本文从 [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) 入手，解读如何实现一个轻量级的大模型请求调度器。",
+        "updated": "2026-04-23T13:09:40.000Z",
+        "tags": [
+          "LLM-Infra",
+          "Nano-vLLM"
+        ],
+        "category": "LLM 推理平台",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "nano-vllm-scheduler"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 4
+    },
+    {
+      "source": "src/content/posts/vLLM/Nano vLLM 解读（4）：解析 BlockManager.md",
+      "destination": "content/blog/vLLM/Nano vLLM 解读（4）：解析 BlockManager.md",
+      "route": "/posts/nano-vllm-blockmanager/",
+      "sourceSha256": "f3bda13354927d260e06fec2008cdd11c327835a19fe843d2f0a3555e39b88cc",
+      "draft": false,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Nano vLLM 解读（4）：解析 BlockManager",
+        "published": "2026-05-04T20:27:57.000Z",
+        "description": "Block Manager 是 Scheduler 的一个子模块，实现 KV Cache Block 的**分配、复用与释放机制**。本文基于 [Nano-vLLM](https://github.com/GeeeekExplorer/nano-vllm) 源码实现，系统性拆解一个最小但完整的 BlockManager 设计。",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "Nano-vLLM"
+        ],
+        "category": "LLM 推理平台",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "nano-vllm-blockmanager"
+      },
+      "mathExpressions": 2,
+      "codeBlocks": 5
+    },
+    {
+      "source": "src/content/posts/vLLM/Nano vLLM 解读（5）：解析 ModelRunner.md",
+      "destination": "content/blog/vLLM/Nano vLLM 解读（5）：解析 ModelRunner.md",
+      "route": "/posts/nano-vllm-model-runner/",
+      "sourceSha256": "6bdd2efe8bb989fa92fa6f9c4d3cb9a164ed332177348dbf6769e05a49916686",
+      "draft": false,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "Nano vLLM 解读（5）：解析 ModelRunner",
+        "published": "2026-05-04T22:22:35.000Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "Nano-vLLM",
+          "LLM-Infra"
+        ],
+        "category": "LLM 推理平台",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "nano-vllm-model-runner"
+      },
+      "mathExpressions": 1,
+      "codeBlocks": 25
+    },
+    {
+      "source": "src/content/posts/vLLM/vLLM EngineCore 探究.md",
+      "destination": "content/blog/vLLM/vLLM EngineCore 探究.md",
+      "route": "/posts/vllm-enginecore/",
+      "sourceSha256": "b8807dbec8d83510ba28eec3f481bb95fbdad67d4e0360abc9608d621f56d882",
+      "draft": true,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "vLLM EngineCore 探究",
+        "published": "2026-05-29T09:06:52.086Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "vLLM"
+        ],
+        "category": "LLM 推理平台",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "vllm-enginecore"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 5
+    },
+    {
+      "source": "src/content/posts/vLLM/vLLM v1 架构介绍.md",
+      "destination": "content/blog/vLLM/vLLM v1 架构介绍.md",
+      "route": "/posts/vllm-v1/",
+      "sourceSha256": "6f9e02df86f80a3edae57b846d7067e4d730187ae84b686afd9a968839139920",
+      "draft": true,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "vLLM v1 架构介绍",
+        "published": "2026-04-10T16:23:00.195Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "LLM-Infra",
+          "vLLM"
+        ],
+        "category": "LLM 推理平台",
+        "draft": true,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "vllm-v1"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 2
+    },
+    {
+      "source": "src/content/posts/vLLM/vLLM v1 离线推理流程源码 Debug.md",
+      "destination": "content/blog/vLLM/vLLM v1 离线推理流程源码 Debug.md",
+      "route": "/posts/vllm-system-offline-debug/",
+      "sourceSha256": "fbceadae033b6945ac4c242ea2bc5fe9ad0ff7863a0725213a443d813f397210",
+      "draft": false,
+      "categories": [
+        "llm-inference-platform",
+        "ai-infra"
+      ],
+      "sourceMetadata": {
+        "title": "vLLM v1 离线推理流程源码 Debug",
+        "published": "2026-05-19T22:27:48.000Z",
+        "description": "",
+        "updated": "",
+        "tags": [
+          "vLLM"
+        ],
+        "category": "LLM 推理平台",
+        "draft": false,
+        "pin": 0,
+        "toc": true,
+        "lang": "",
+        "abbrlink": "vllm-system-offline-debug"
+      },
+      "mathExpressions": 0,
+      "codeBlocks": 3
+    }
+  ],
+  "assets": [
+    {
+      "source": "src/content/posts/agent-infra/Attachments/agent-workflow-explained.png",
+      "destination": "static/media/posts/agent-infra/Attachments/agent-workflow-explained.png",
+      "sha256": "63575735ce187879970a627200a517b48233f116528d3bb3e5809c4e8205d85e",
+      "bytes": 501243
+    },
+    {
+      "source": "src/content/posts/agent-infra/Attachments/react-agent-explained.png",
+      "destination": "static/media/posts/agent-infra/Attachments/react-agent-explained.png",
+      "sha256": "f7f4425427207f1f43ce01085fb5536c37b0aebe753db6e4c09adc3fc12e88f8",
+      "bytes": 142199
+    },
+    {
+      "source": "src/content/posts/agent-infra/paper-reading/Attachments/agent-workflow-example.png",
+      "destination": "static/media/posts/agent-infra/paper-reading/Attachments/agent-workflow-example.png",
+      "sha256": "8d2f4e65fe3f4dafe43f20ce44a3e45590c3182cc6bb9d658277c4a23210aa58",
+      "bytes": 150077
+    },
+    {
+      "source": "src/content/posts/algos/Attachments/DAG-MinPath-Example.png",
+      "destination": "static/media/posts/algos/Attachments/DAG-MinPath-Example.png",
+      "sha256": "57bfc39d48dabf3c293f4d40f4c23dcb9d1d2245f113ea85fbd403c960fca046",
+      "bytes": 91583
+    },
+    {
+      "source": "src/content/posts/algos/Attachments/DijkstraExample.png",
+      "destination": "static/media/posts/algos/Attachments/DijkstraExample.png",
+      "sha256": "facb9ff8bcb9c94dd807ec6684df4f1632a15412e965103b13b2a701263933ce",
+      "bytes": 109552
+    },
+    {
+      "source": "src/content/posts/algos/Attachments/Example-IDSDS.png",
+      "destination": "static/media/posts/algos/Attachments/Example-IDSDS.png",
+      "sha256": "755ef9d42861ff5d6c204119a83ec300d7800eedb75dcfd6e71aa9a9e4af79bb",
+      "bytes": 581170
+    },
+    {
+      "source": "src/content/posts/algos/Attachments/Gale-Shapley.png",
+      "destination": "static/media/posts/algos/Attachments/Gale-Shapley.png",
+      "sha256": "b9bd3778ccc4f7e490398e35ed191ae55f307c5d4e5393a04c08042f26b7c187",
+      "bytes": 1491909
+    },
+    {
+      "source": "src/content/posts/algos/Attachments/linear-programming-example.png",
+      "destination": "static/media/posts/algos/Attachments/linear-programming-example.png",
+      "sha256": "b9622aa388d2e3764b2e33cf6521229db4903c3eca1ca853388997d2e2f27809",
+      "bytes": 104257
+    },
+    {
+      "source": "src/content/posts/algos/Attachments/Roy-Warshall-Floyd-MinPath-Example.png",
+      "destination": "static/media/posts/algos/Attachments/Roy-Warshall-Floyd-MinPath-Example.png",
+      "sha256": "9361421c5cd903325c5fd226d89ea98d240233651b71faedc59bcfdf3dc1396a",
+      "bytes": 48688
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/all_reduce.png",
+      "destination": "static/media/posts/communication/Attachments/all_reduce.png",
+      "sha256": "51d662258bd19c00cd2872f9161b9e58bcb711ad27cdc5e0b770a4e39cab76b5",
+      "bytes": 133392
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/collective_communication.png",
+      "destination": "static/media/posts/communication/Attachments/collective_communication.png",
+      "sha256": "cf9522bdab539b4a7aba23720dfe8bb12260b4c3085a94edd74271d9e45c0dd3",
+      "bytes": 366533
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/InfiniBand.png",
+      "destination": "static/media/posts/communication/Attachments/InfiniBand.png",
+      "sha256": "8b1875f62dbed448536fde9ea7c82038854c85b4426164d88e3c0ba71bb020d7",
+      "bytes": 17759
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/NUMA.png",
+      "destination": "static/media/posts/communication/Attachments/NUMA.png",
+      "sha256": "b310a434bae23e3c458327f1f58a169bdba14a345d4c998e6a8442e06387dac3",
+      "bytes": 122841
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/nvidia-smi-topo-output.png",
+      "destination": "static/media/posts/communication/Attachments/nvidia-smi-topo-output.png",
+      "sha256": "38e459bef5a1f3fffd96e4d68745ed6adedabe5cdecc9ca09f2b9a075fd3f05b",
+      "bytes": 458307
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/NVSwitch.png",
+      "destination": "static/media/posts/communication/Attachments/NVSwitch.png",
+      "sha256": "69305edee5d5729bef0883d2f37b215407e6492db42de78d946fd2497f12d43c",
+      "bytes": 67688
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/PCIe-Interpretation.png",
+      "destination": "static/media/posts/communication/Attachments/PCIe-Interpretation.png",
+      "sha256": "5244544248a7c87d7ba7e4d12fb9db6fe680eb39e0bca7d497ee8a4fe11e3f08",
+      "bytes": 88315
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/PCIe-P2P.png",
+      "destination": "static/media/posts/communication/Attachments/PCIe-P2P.png",
+      "sha256": "13d86e56c91a958c6384b045390e5d5052973c37c52df343821c67df26356ed1",
+      "bytes": 188394
+    },
+    {
+      "source": "src/content/posts/communication/Attachments/RDMA.png",
+      "destination": "static/media/posts/communication/Attachments/RDMA.png",
+      "sha256": "6c7f8adb82c9e55e4659830cfdbfcb301e18b3543975fbe0f405a91c80b9a3b7",
+      "bytes": 272817
+    },
+    {
+      "source": "src/content/posts/compression/Attachments/bit-packing.png",
+      "destination": "static/media/posts/compression/Attachments/bit-packing.png",
+      "sha256": "c59aa5a66ad2015339139b3a6c5db56e4df467e0051233350bec821924ed59c4",
+      "bytes": 157225
+    },
+    {
+      "source": "src/content/posts/compression/Attachments/ibp-overview.png",
+      "destination": "static/media/posts/compression/Attachments/ibp-overview.png",
+      "sha256": "8b1a9ac9afd57a32be6bea468c0bf5d1d906ea6d46c119175b75ef3d706809b3",
+      "bytes": 184640
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/c++ iterator example.png",
+      "destination": "static/media/posts/cs-basics/Attachments/c++ iterator example.png",
+      "sha256": "d2553eeb3348ee1048116f90f23f302cf2aff2cca1ad96fda4520926675f546d",
+      "bytes": 412287
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/cinvsgetline.png",
+      "destination": "static/media/posts/cs-basics/Attachments/cinvsgetline.png",
+      "sha256": "1e434391d3fb7d1f18b534a891651efa1ea789df1b5cebd119aece37c0329da9",
+      "bytes": 277469
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/container_deque.png",
+      "destination": "static/media/posts/cs-basics/Attachments/container_deque.png",
+      "sha256": "50a99cd1a56d9a1959284421723cafaf9652c7b014b5c50d34cd518acda82d4f",
+      "bytes": 183098
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/container_map.png",
+      "destination": "static/media/posts/cs-basics/Attachments/container_map.png",
+      "sha256": "863cf5036a650c9b30d4eb28eb1d807c55b759e7dd17bc73c5ce5eef588b6abd",
+      "bytes": 349753
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/container_summary.png",
+      "destination": "static/media/posts/cs-basics/Attachments/container_summary.png",
+      "sha256": "a8a08660db54b5fc1e6fd3487bde2c72b57cba17233125bbb6d90eb403e903a6",
+      "bytes": 255455
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/container_unordered_map.png",
+      "destination": "static/media/posts/cs-basics/Attachments/container_unordered_map.png",
+      "sha256": "df1795cdb0c4ae7fa538ed1c8b4e3eee403eda86e72b0f6e258410074a9d6888",
+      "bytes": 244821
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/container_vector.png",
+      "destination": "static/media/posts/cs-basics/Attachments/container_vector.png",
+      "sha256": "6b29e16954d0a034ae04914839b1c36e5516df57553d16c7e8709676f685a7ce",
+      "bytes": 342517
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/functors_and_lambda.png",
+      "destination": "static/media/posts/cs-basics/Attachments/functors_and_lambda.png",
+      "sha256": "b6a15d967d588327b9e8f3cac17770f39256c58dd8b8fde0fedca0c33779de65",
+      "bytes": 136722
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/GitCommit.png",
+      "destination": "static/media/posts/cs-basics/Attachments/GitCommit.png",
+      "sha256": "7fd2202dba3026ffc88412d8010bc784d6d881f6bbb4777f65b42045791aae90",
+      "bytes": 37168
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/GitHEAD.png",
+      "destination": "static/media/posts/cs-basics/Attachments/GitHEAD.png",
+      "sha256": "8816fbf25aa264e80794cd2c82501ebe1e5203e09367a0cec54e38df1dd1afe0",
+      "bytes": 95676
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/init_ref_example-1.png",
+      "destination": "static/media/posts/cs-basics/Attachments/init_ref_example-1.png",
+      "sha256": "8bb200fb3ea00a966662fa05e3e6e73a3525033abd1f15575a7f1940da2adcfa",
+      "bytes": 198368
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/init_structured_binding-1.png",
+      "destination": "static/media/posts/cs-basics/Attachments/init_structured_binding-1.png",
+      "sha256": "2ba2ae4efd1ce33584e90a9938f0907a0133cc2ea594fd044413407add798f60",
+      "bytes": 216053
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/iterator_types.png",
+      "destination": "static/media/posts/cs-basics/Attachments/iterator_types.png",
+      "sha256": "e4a771cbd3037f977241e5f58238dd9eee4e9c1c8153495940f060d26dc1c75a",
+      "bytes": 47337
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/lambda_captures.png",
+      "destination": "static/media/posts/cs-basics/Attachments/lambda_captures.png",
+      "sha256": "1f2bbf3663ec1b4f97279f835b822c0a2b80da97b3baa966ff5bb468c2929fe9",
+      "bytes": 201636
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/lambda_syntax.png",
+      "destination": "static/media/posts/cs-basics/Attachments/lambda_syntax.png",
+      "sha256": "81d8a68158f2a7b5fe6160da95ff35c3031b773e41dbbd3143c57d717e21943a",
+      "bytes": 129722
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/sstream_exetraction.png",
+      "destination": "static/media/posts/cs-basics/Attachments/sstream_exetraction.png",
+      "sha256": "c6655d809bc8167cd95ccc8eef9c408d2bee5b05d7d744459927d37241513b6f",
+      "bytes": 171996
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/stream_flush-1.png",
+      "destination": "static/media/posts/cs-basics/Attachments/stream_flush-1.png",
+      "sha256": "dc417b525859468cd0a2aeadced628282f14643d999b143df1db73c5bfabf380",
+      "bytes": 253894
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/stream_intro-1.png",
+      "destination": "static/media/posts/cs-basics/Attachments/stream_intro-1.png",
+      "sha256": "e5632a80920982ec75bc08348a8ddd6fe7d7b9d5d180c5ae4f2882db46a89d01",
+      "bytes": 140707
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/stream_io-1.png",
+      "destination": "static/media/posts/cs-basics/Attachments/stream_io-1.png",
+      "sha256": "f0e049d5f0a4e106272a3eaa8fa6d4f41d1f77d7ee68a1aeef95e87ab3a4388b",
+      "bytes": 253538
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/stream_types.png",
+      "destination": "static/media/posts/cs-basics/Attachments/stream_types.png",
+      "sha256": "73b4964cb463022381851d0d49a4653c63c8c75533f16bd380d329e9923d09aa",
+      "bytes": 393120
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/TreeBlob.png",
+      "destination": "static/media/posts/cs-basics/Attachments/TreeBlob.png",
+      "sha256": "57eaee0d5c6454aa603fe6352cfdc7c9960c27426815995d930705c85ec8a754",
+      "bytes": 36528
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/TreeBlob2.png",
+      "destination": "static/media/posts/cs-basics/Attachments/TreeBlob2.png",
+      "sha256": "989e876a1aa3c01e6c2569666916eac20fcb3d702660815bf0a74bd8366a110c",
+      "bytes": 87097
+    },
+    {
+      "source": "src/content/posts/cs-basics/Attachments/TreeBlob3.png",
+      "destination": "static/media/posts/cs-basics/Attachments/TreeBlob3.png",
+      "sha256": "68180401ea92e8dc7c0ab1a7bfb8fe61e4833e867236536ec824455bb4b959e6",
+      "bytes": 207125
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/1DGrid1DBlock.png",
+      "destination": "static/media/posts/cuda/Attachments/1DGrid1DBlock.png",
+      "sha256": "7856c14498cb5e91751d20605a425e148f8de299ae3ede51814f59688efb0665",
+      "bytes": 80865
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/1DGrid2DBlock.png",
+      "destination": "static/media/posts/cuda/Attachments/1DGrid2DBlock.png",
+      "sha256": "6deecc30fe84f9e245807415a2bd267954aa1fda985a2af55c04a34ca70947c9",
+      "bytes": 130645
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/2DGrid1DBlock.png",
+      "destination": "static/media/posts/cuda/Attachments/2DGrid1DBlock.png",
+      "sha256": "25e1b9589c820eb4861ec875c0247800ae0394367f30fb88dfc0705fc528bf2f",
+      "bytes": 84546
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/2DGrid2DBlock.png",
+      "destination": "static/media/posts/cuda/Attachments/2DGrid2DBlock.png",
+      "sha256": "8b35528a9852abb84d642f4727a24fcc6c2fe9c178dfabe5405e5017606d998c",
+      "bytes": 132018
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/CUDAIndexing.png",
+      "destination": "static/media/posts/cuda/Attachments/CUDAIndexing.png",
+      "sha256": "d66965367916dc7d682040766734bd13e55e8a390eaef9924ea976cf3aac5c83",
+      "bytes": 998758
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/CUDAIndexing3D.png",
+      "destination": "static/media/posts/cuda/Attachments/CUDAIndexing3D.png",
+      "sha256": "6b370f0bcdc1dd074234f897ef1a0ab245d0979565f59732caf18ced02a8bac9",
+      "bytes": 545159
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/CUDAToyexample.png",
+      "destination": "static/media/posts/cuda/Attachments/CUDAToyexample.png",
+      "sha256": "15df1e8b61252aa86429c79ae7af17bee545dfeb54fd2d54536ed4a500a73198",
+      "bytes": 467434
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/FlattenedIndexingIllustration.png",
+      "destination": "static/media/posts/cuda/Attachments/FlattenedIndexingIllustration.png",
+      "sha256": "fc4f1619744d5e099f3ec912d9ef3112748ab78c48782229ecb5d88e05c4a258",
+      "bytes": 324105
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/GEMMVersion2.png",
+      "destination": "static/media/posts/cuda/Attachments/GEMMVersion2.png",
+      "sha256": "808c0b486fb6131ad27cd566a6dd8fe59d85334d689cf35ab9c8679287bf5106",
+      "bytes": 2225806
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/GEMMVersion3.png",
+      "destination": "static/media/posts/cuda/Attachments/GEMMVersion3.png",
+      "sha256": "9ab259248d27888d9b033cad9e690db14076a7b340a659059697854dcb503405",
+      "bytes": 2143019
+    },
+    {
+      "source": "src/content/posts/cuda/Attachments/NaiveGEMM1.png",
+      "destination": "static/media/posts/cuda/Attachments/NaiveGEMM1.png",
+      "sha256": "cb520bddb334578dfa973060e4dc38e6559f33468762705a8883264f6ace3894",
+      "bytes": 1120617
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/CircularArray.png",
+      "destination": "static/media/posts/DSA/Attachments/CircularArray.png",
+      "sha256": "eabf32fbcbe9981231175fa518a422031585774095f9ad810ea46e41cc747445",
+      "bytes": 62262
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/CPPDeque.png",
+      "destination": "static/media/posts/DSA/Attachments/CPPDeque.png",
+      "sha256": "d018577deabcc6b116627b65fcdf560afeeaefa4550e9de0d2cd67994ed0b0c7",
+      "bytes": 833206
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/CPPDynamicArray.png",
+      "destination": "static/media/posts/DSA/Attachments/CPPDynamicArray.png",
+      "sha256": "26588e74b0d14cec5906c909ac64e7f604755ed95a78f863c9f697f6e74358d8",
+      "bytes": 924759
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/diff_array.png",
+      "destination": "static/media/posts/DSA/Attachments/diff_array.png",
+      "sha256": "4add9a136f1525a9906c4081b08bb3fa2c298b999aa2041175eb3699f9b8a45c",
+      "bytes": 567963
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/difference_array.png",
+      "destination": "static/media/posts/DSA/Attachments/difference_array.png",
+      "sha256": "010c29223479e41335cde8892a1febdd8aa5c7a3de3c47be7330cbe1309264bc",
+      "bytes": 490277
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/GraphAdjacencyList.png",
+      "destination": "static/media/posts/DSA/Attachments/GraphAdjacencyList.png",
+      "sha256": "1342fef8b0ad26cbbd14ed19c9a74904e5ed4477c6d169996f802930c2b4d7c5",
+      "bytes": 27473
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/GraphAdjacencyMatrix.png",
+      "destination": "static/media/posts/DSA/Attachments/GraphAdjacencyMatrix.png",
+      "sha256": "201283d8f1e33e7fad8b83238d2e4c1e9c0ed0c0c8c75ec512263b3c57456ca6",
+      "bytes": 14997
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/HashAlgoOptimization.png",
+      "destination": "static/media/posts/DSA/Attachments/HashAlgoOptimization.png",
+      "sha256": "9587cd60d70babb96fe83278b16c856738904eb95306c9dca714471863c703cf",
+      "bytes": 665169
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/LinkedList.png",
+      "destination": "static/media/posts/DSA/Attachments/LinkedList.png",
+      "sha256": "258f36125d0f0cfa2531000fb049575492080c17f2ce8b0b5772c38dee01e498",
+      "bytes": 1089889
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/LRUImplementation.png",
+      "destination": "static/media/posts/DSA/Attachments/LRUImplementation.png",
+      "sha256": "0e11205b98f02d6fdf88404cc6fd5ca394ef6572889b6b339873e7b01d35ed2c",
+      "bytes": 1030121
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/MaxBinaryHeap.png",
+      "destination": "static/media/posts/DSA/Attachments/MaxBinaryHeap.png",
+      "sha256": "27eb010bbb7cde1a02e458fa59e4d6ae603b2b53f6c2b0ea44db465d12b7e9db",
+      "bytes": 81721
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/MaxBinaryHeapDelete.png",
+      "destination": "static/media/posts/DSA/Attachments/MaxBinaryHeapDelete.png",
+      "sha256": "5046b7372bfd6529adcf9588c4497ef293a2c8e795b2411cafccfbcce5c0f1d2",
+      "bytes": 643654
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/MaxBinaryHeapInsert.png",
+      "destination": "static/media/posts/DSA/Attachments/MaxBinaryHeapInsert.png",
+      "sha256": "97ea798a043b11bc69447a048fab29a1115177d8fcb996334459c18352ea11a8",
+      "bytes": 649512
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/prefix_sum_array_summary-1.png",
+      "destination": "static/media/posts/DSA/Attachments/prefix_sum_array_summary-1.png",
+      "sha256": "8a3c82bda3bf4dccd83c8c8f35de998c1d324d68b56c6a44811717f640f24afd",
+      "bytes": 556269
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/prefix_sum_matrix_summary.png",
+      "destination": "static/media/posts/DSA/Attachments/prefix_sum_matrix_summary.png",
+      "sha256": "abb64ddb87acf1c1d76ae5723cefa590309a2577e8b9e29c175e4c7d8be2ab6b",
+      "bytes": 585603
+    },
+    {
+      "source": "src/content/posts/DSA/Attachments/prefix_sum_matrix.png",
+      "destination": "static/media/posts/DSA/Attachments/prefix_sum_matrix.png",
+      "sha256": "76ef6838c615a2c7fc2ef15db37f9978ee44a5cf37547ab68123cf108c25eec0",
+      "bytes": 271398
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/attention_alignment.png",
+      "destination": "static/media/posts/llm/Attachments/attention_alignment.png",
+      "sha256": "7e94c90f54403ee8f8156ae39ed0c2b30cefe86a8333bdbe022d92861f018e9d",
+      "bytes": 15813
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/attention_futuremasking.png",
+      "destination": "static/media/posts/llm/Attachments/attention_futuremasking.png",
+      "sha256": "31a5a1dc396ee1f57ed1e2b91b333e402f9fd91b2d28f22986d3f9067f1c7b21",
+      "bytes": 36674
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/attention_nonlinear.png",
+      "destination": "static/media/posts/llm/Attachments/attention_nonlinear.png",
+      "sha256": "b2397fda26c7bc5108a87dc86629a633d71e5fdb7abb317aaa65a3d5cea12396",
+      "bytes": 62031
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/attention-illu.png",
+      "destination": "static/media/posts/llm/Attachments/attention-illu.png",
+      "sha256": "a5c284c39647bde780b78e666ccb4b7ecee3896bbfdd2a4d656644399e44ac5b",
+      "bytes": 47844
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/BeamSearchExample.png",
+      "destination": "static/media/posts/llm/Attachments/BeamSearchExample.png",
+      "sha256": "e9feb03b249ef93df996de0a27f6d0e62191d549c2acec0be8491049582c4ed9",
+      "bytes": 397593
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/LLMGenerationParameters.png",
+      "destination": "static/media/posts/llm/Attachments/LLMGenerationParameters.png",
+      "sha256": "3fcd4788dfee3f2595bf84686cad03f6fef3e53d00ac9e85fdec94ea8bc70420",
+      "bytes": 611413
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/LLMLogits.png",
+      "destination": "static/media/posts/llm/Attachments/LLMLogits.png",
+      "sha256": "f9c14043099de8274ea24013eeedea3ec29b938a1c72492a1aa3deeb2416b4ce",
+      "bytes": 151344
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/LLMSamplingProblems.png",
+      "destination": "static/media/posts/llm/Attachments/LLMSamplingProblems.png",
+      "sha256": "fecb41f5eee2f9208cff8acac0bb88612205a3d35337bf03a45e5e5616885997",
+      "bytes": 385829
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/lookup-table.png",
+      "destination": "static/media/posts/llm/Attachments/lookup-table.png",
+      "sha256": "d5ba6974b1634625fa37ee17884e7ffbbc854cf603bc1d6ef707387488bbb823",
+      "bytes": 28006
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/mean-pooling-rnn.png",
+      "destination": "static/media/posts/llm/Attachments/mean-pooling-rnn.png",
+      "sha256": "83ecd967ff0610bd8d3dd8c9c42f041e2df72005a1359d5e47ef1739e865f8e9",
+      "bytes": 95469
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/MoE-BaseStructure.png",
+      "destination": "static/media/posts/llm/Attachments/MoE-BaseStructure.png",
+      "sha256": "cfe47abef901c25cd2cc3fc903bb4dcf09a65ccca7f30f46909d7547ab08c246",
+      "bytes": 191760
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/MoE-EP.png",
+      "destination": "static/media/posts/llm/Attachments/MoE-EP.png",
+      "sha256": "42c7eddc496aa391e1d9cfbaa329a5708cf40e939090c2bcba84f842c91ce3ec",
+      "bytes": 1050382
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/MoE-ExpertSizes.png",
+      "destination": "static/media/posts/llm/Attachments/MoE-ExpertSizes.png",
+      "sha256": "46074566247bbb810b60e88601f5e8aaf79c5444ba675d362f5c95d23695cb23",
+      "bytes": 285622
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/MoE-GEMM.png",
+      "destination": "static/media/posts/llm/Attachments/MoE-GEMM.png",
+      "sha256": "c4081b999796d76be959b6f30029b92b054ed84be8fa373d657595bb9bc3a5c4",
+      "bytes": 324945
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/MoE-Stochastic.png",
+      "destination": "static/media/posts/llm/Attachments/MoE-Stochastic.png",
+      "sha256": "a71a59442a7b458a4172a07e8d1105ddee3f3c98c02bb0e83fb72ed444c8e45f",
+      "bytes": 443811
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/MoE-TEMatch.png",
+      "destination": "static/media/posts/llm/Attachments/MoE-TEMatch.png",
+      "sha256": "dbd817514872b1e4f590e3f822b518a0773ffac88c8d2ecf703ee7ab8d850141",
+      "bytes": 351782
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/MoE-TopK.png",
+      "destination": "static/media/posts/llm/Attachments/MoE-TopK.png",
+      "sha256": "bc87f0fb7cde9e86f73cb935df31eb97b245eef7f4aca8bf77b10180a50a9587",
+      "bytes": 214762
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/rope_highdim.png",
+      "destination": "static/media/posts/llm/Attachments/rope_highdim.png",
+      "sha256": "e52db30975a6a1f2e755081668f6a222bf3cf5db8d717f2e9849d92c5c46d5f2",
+      "bytes": 231320
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/rope_rotation.png",
+      "destination": "static/media/posts/llm/Attachments/rope_rotation.png",
+      "sha256": "d9e8047f093b80e932a239416bc437fdbd37406012a1ee1916b1967dc477d001",
+      "bytes": 244519
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/sin_pe.png",
+      "destination": "static/media/posts/llm/Attachments/sin_pe.png",
+      "sha256": "382df4d5d0e9150e055088f29905def229ff14c5d7d505ce7cffe2c5616a88e5",
+      "bytes": 90302
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/TemperatureImpact.png",
+      "destination": "static/media/posts/llm/Attachments/TemperatureImpact.png",
+      "sha256": "b78fae42524ca43e38ed7ee73ae7e317f3ed9857d8f7bc94b5b79796440f4484",
+      "bytes": 163901
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/TemperatureImpact2.png",
+      "destination": "static/media/posts/llm/Attachments/TemperatureImpact2.png",
+      "sha256": "50b0010f67be88f83857299a0120fe5081ec0dbb59377e7d729b86a2a05ec16c",
+      "bytes": 198420
+    },
+    {
+      "source": "src/content/posts/llm/Attachments/Transformers.jpeg",
+      "destination": "static/media/posts/llm/Attachments/Transformers.jpeg",
+      "sha256": "076ca3929669cf6ea0aa15497c43434ca095e63280b11c14cfc686d3860ff940",
+      "bytes": 197339
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/AFDisaggregation.png",
+      "destination": "static/media/posts/llm-infra/Attachments/AFDisaggregation.png",
+      "sha256": "0e51443abfcbc5d00fb3563526732bebabbe43c604e812d3960392c25822b19a",
+      "bytes": 131890
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/Benchmark.png",
+      "destination": "static/media/posts/llm-infra/Attachments/Benchmark.png",
+      "sha256": "ffc08d0d57542955bba9fbbe7d6b3bb5b677f49854ef874959a9cdf023b4fa95",
+      "bytes": 394609
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/ChunkedPrefill.png",
+      "destination": "static/media/posts/llm-infra/Attachments/ChunkedPrefill.png",
+      "sha256": "f12b0c697b4f28c8c4f4c732ae87ee0f9e6ef5f8c411aab60b5406324f780c49",
+      "bytes": 98828
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/ChunkedPrefillProcess.png",
+      "destination": "static/media/posts/llm-infra/Attachments/ChunkedPrefillProcess.png",
+      "sha256": "3c07a339723c5f31de3dc03653d4737d7469c290577441a1d8804f2131df0d75",
+      "bytes": 272003
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/ChunkedPrefillWorkflow.png",
+      "destination": "static/media/posts/llm-infra/Attachments/ChunkedPrefillWorkflow.png",
+      "sha256": "28042f46f357e60ca8ab35201334d9237713af922c71ff201f505d7b02d69e4e",
+      "bytes": 460860
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/CommunicationOperationsInTransformerLayer.png",
+      "destination": "static/media/posts/llm-infra/Attachments/CommunicationOperationsInTransformerLayer.png",
+      "sha256": "7a85006158956d59e8cb746154be1b74e9d34a5f4d1b181d39646051eb1e4760",
+      "bytes": 228688
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/Continuous_Batching_Explained.pdf",
+      "destination": "static/media/posts/llm-infra/Attachments/Continuous_Batching_Explained.pdf",
+      "sha256": "46972a3bc083a6c9990c4d1f01fe24018031e078a2dfcde53a0597f5f450a81e",
+      "bytes": 677957
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/ContinuousBatching.png",
+      "destination": "static/media/posts/llm-infra/Attachments/ContinuousBatching.png",
+      "sha256": "a83fd22e3e4030e3216549dd2fd08007ff121951b945ba6b6f92eb7fbda0ef8d",
+      "bytes": 99330
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/ContinuousBatchingGoal.png",
+      "destination": "static/media/posts/llm-infra/Attachments/ContinuousBatchingGoal.png",
+      "sha256": "71849ebc1dcc51d2368af141138027c96fb1d5b33d2fa1370637a60e762f196d",
+      "bytes": 1693398
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/ContinuousBatchingIllustrate.png",
+      "destination": "static/media/posts/llm-infra/Attachments/ContinuousBatchingIllustrate.png",
+      "sha256": "8c1bd6ba6d9f0826a43da72bcb7d51d8c6ebe611261fa95b838a088a598be07d",
+      "bytes": 306303
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/CopyOnWrite.png",
+      "destination": "static/media/posts/llm-infra/Attachments/CopyOnWrite.png",
+      "sha256": "d0bd8a0733c5e6f0116a78003964235b46afd15237cc52651ec27f47aefd0c03",
+      "bytes": 149715
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/CUDA-Graph-Example.ipynb",
+      "destination": "static/media/posts/llm-infra/Attachments/CUDA-Graph-Example.ipynb",
+      "sha256": "9f3a62ec8276d65ebeaa5e4e27fb9fe3a533033b7d8c67e32ed61794e95bea4f",
+      "bytes": 8736
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/CUDAGraph.png",
+      "destination": "static/media/posts/llm-infra/Attachments/CUDAGraph.png",
+      "sha256": "afd347b6b853e14034b3eeff97a40c0e528bf924d4c9337f1dbcab1e27418981",
+      "bytes": 81600
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/CUDAGraphs.png",
+      "destination": "static/media/posts/llm-infra/Attachments/CUDAGraphs.png",
+      "sha256": "9ccae01da4ca1c634975bc1e5e3930de9b44816841d44bf4ec05fb7d58ecad2e",
+      "bytes": 193177
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/FlashAttentionAlgo.png",
+      "destination": "static/media/posts/llm-infra/Attachments/FlashAttentionAlgo.png",
+      "sha256": "87aec1f11210421bc01c9c2e09ea318f9d722757a3c1f55425edefafb94c9ad2",
+      "bytes": 182268
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/KVCacheBlock.png",
+      "destination": "static/media/posts/llm-infra/Attachments/KVCacheBlock.png",
+      "sha256": "4c8dee779e1f9d29b18d7638d3d26a42bdbd46d64bb4cef72254de582f1e57ac",
+      "bytes": 136292
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/KVCacheMech.png",
+      "destination": "static/media/posts/llm-infra/Attachments/KVCacheMech.png",
+      "sha256": "e1444a0c4fc3a1e32ea4f3798b60aea25b2943d144a3ba97c2e78196ffab2cc4",
+      "bytes": 1499357
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/KVCacheMechanism.png",
+      "destination": "static/media/posts/llm-infra/Attachments/KVCacheMechanism.png",
+      "sha256": "89612a13cb9edb674161e8aa196b64fb8607e90a5cc883ea463e7b9c10db2610",
+      "bytes": 665201
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/Megatronv1.png",
+      "destination": "static/media/posts/llm-infra/Attachments/Megatronv1.png",
+      "sha256": "f6233b6256cf0c46c2fc7b0f10c5780169263f06eab1756a2d30807a074857e3",
+      "bytes": 866629
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/Multi-Head.png",
+      "destination": "static/media/posts/llm-infra/Attachments/Multi-Head.png",
+      "sha256": "3e91a038355600d8d3bebfd67b94949e54948703dd86cd081ff81e4a1c172763",
+      "bytes": 133660
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/NaiveBatching.png",
+      "destination": "static/media/posts/llm-infra/Attachments/NaiveBatching.png",
+      "sha256": "e4a0d1c7d5479a3fdf4d91d5f2b77cb75090a8e5435594250091893e8deb7748",
+      "bytes": 103099
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/OnlineSoftmaxAlgo.png",
+      "destination": "static/media/posts/llm-infra/Attachments/OnlineSoftmaxAlgo.png",
+      "sha256": "fa239fcf1462807bec93f0669050df8c148a56ede5f68dd6e1095a163c06e743",
+      "bytes": 537978
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/PagedAttention.png",
+      "destination": "static/media/posts/llm-infra/Attachments/PagedAttention.png",
+      "sha256": "8cc104c23ed8ffaeb941f9f042354c55c9f686e1251eefb58988b7bc144cac59",
+      "bytes": 531620
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/PDPhase.png",
+      "destination": "static/media/posts/llm-infra/Attachments/PDPhase.png",
+      "sha256": "88bf750edea231bc850d78ccfe58e01d6ef709df5ac542ecd5d09c8b53b73f9a",
+      "bytes": 132488
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/RadixAttention.png",
+      "destination": "static/media/posts/llm-infra/Attachments/RadixAttention.png",
+      "sha256": "409d327cce1324628a2c0d0799e3307eba604c6a99db12f7b45bbd50fb55921b",
+      "bytes": 788387
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/RaggedBatching.png",
+      "destination": "static/media/posts/llm-infra/Attachments/RaggedBatching.png",
+      "sha256": "b2ea6c464dcb7fe419e684fd09e17dc882cc36f233c411f93b4c7effbfba4fe4",
+      "bytes": 131292
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/Roofline-Model.png",
+      "destination": "static/media/posts/llm-infra/Attachments/Roofline-Model.png",
+      "sha256": "91a6440d5ed07f1885529240915a886aa8a723f2be7259a975f672e7f200c3f1",
+      "bytes": 117394
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/SpeculativeDecoding.png",
+      "destination": "static/media/posts/llm-infra/Attachments/SpeculativeDecoding.png",
+      "sha256": "3530ee8f2ace0595c1da24b31da08bfa322f7aef475413b47c0299ccc0a32516",
+      "bytes": 779898
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/StandardAttention.png",
+      "destination": "static/media/posts/llm-infra/Attachments/StandardAttention.png",
+      "sha256": "7c15158b79b3a484629e6e0c2c2596e8297c7066454cb737fb9dab306399b628",
+      "bytes": 376307
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/TPPlusSPImplementation.png",
+      "destination": "static/media/posts/llm-infra/Attachments/TPPlusSPImplementation.png",
+      "sha256": "ad11b79dc07d638db19ce0b81d7d2332ba9c9d05b1d1d59292c9561bd61fc297",
+      "bytes": 297566
+    },
+    {
+      "source": "src/content/posts/llm-infra/Attachments/TPPlusSPImplementation1.png",
+      "destination": "static/media/posts/llm-infra/Attachments/TPPlusSPImplementation1.png",
+      "sha256": "88b41a9f31c8b19ef35bbc2fc7cc6fe6db8bbc263b32c646fdfb6e49f30310c9",
+      "bytes": 380445
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/FAV2.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/FAV2.png",
+      "sha256": "3f5b368be198ec44834446a90b29c89c73aa76025176e88c0ce4624af38e726c",
+      "bytes": 288527
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/FlashAttentionAlgo1.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/FlashAttentionAlgo1.png",
+      "sha256": "3b3998c1c1fa667414816aa8d97c0a837f20f64c93cd4c4b9a656fbf963ebf96",
+      "bytes": 247951
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/FlashAttentionTiling.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/FlashAttentionTiling.png",
+      "sha256": "d0af10b76dafa8f45a0677eec0dc6574c51dc29bb561a68c48aa192bd0dd6cb2",
+      "bytes": 285594
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/FlashAttentionV1.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/FlashAttentionV1.png",
+      "sha256": "e70d6599f6acb5e7ef2973718ba0f00c97391e624639f5a6a03979f3055bb5f9",
+      "bytes": 308070
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/FlashAttentionV1Deduction.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/FlashAttentionV1Deduction.png",
+      "sha256": "9d042be16e2c42913ea27604eac0380914ecdd33a66e53f9ef2a10e0c0bd29ca",
+      "bytes": 999853
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/FlashAttentionV2ThreadBlock.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/FlashAttentionV2ThreadBlock.png",
+      "sha256": "c96cfc67a8bf9453fb1e91319192b0b79f7ef86db204e270a5f7bb1d54c93751",
+      "bytes": 248604
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/FlashAttentionV2WarpPartitioning.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/FlashAttentionV2WarpPartitioning.png",
+      "sha256": "9e8a2cca8630f1fd78726376df4c91320aa1bd36aaaa039734877906d993cb27",
+      "bytes": 433593
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/FlashAttentionvsStandardAttention.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/FlashAttentionvsStandardAttention.png",
+      "sha256": "14cc150029617b1427f354a8d51f37ab2d7f3a2461ec7020a8956c2bc2bb5ed9",
+      "bytes": 215627
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/OnlineSoftmaxInFlashAttention.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/OnlineSoftmaxInFlashAttention.png",
+      "sha256": "bb3ad86720c4dba4bd3c2dd301c0a5b3265730b27e04eeb926de2b20ddcd039e",
+      "bytes": 1776371
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/SoftmaxIllu.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/SoftmaxIllu.png",
+      "sha256": "4260418df32421ca1a0aa9cf16d293b2ef4202fc91e06498f358d3f998cd8209",
+      "bytes": 502122
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/StandardAttentionImplementation.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/StandardAttentionImplementation.png",
+      "sha256": "fad6225250eb1031a57a26e68dc82544ba786eeeda800ff7852f983aedaa34b8",
+      "bytes": 114653
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/Tiling.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/Tiling.png",
+      "sha256": "f05766aa7d0f5d5aea82d2caa89fc878db2959ea4d8986b3def988a1b0fc7be8",
+      "bytes": 137321
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Attachments/TilingInFlashAttention.png",
+      "destination": "static/media/posts/llm-infra/attention/Attachments/TilingInFlashAttention.png",
+      "sha256": "91cf33d67a52f17969ed10c479f304c29f0967d40b2adccc99adc24dfb554824",
+      "bytes": 322468
+    },
+    {
+      "source": "src/content/posts/llm-infra/kv-cache-memory/Attachments/KVCacheBlock.png",
+      "destination": "static/media/posts/llm-infra/kv-cache-memory/Attachments/KVCacheBlock.png",
+      "sha256": "4c8dee779e1f9d29b18d7638d3d26a42bdbd46d64bb4cef72254de582f1e57ac",
+      "bytes": 136292
+    },
+    {
+      "source": "src/content/posts/llm-infra/kv-cache-memory/Attachments/KVCacheMech.png",
+      "destination": "static/media/posts/llm-infra/kv-cache-memory/Attachments/KVCacheMech.png",
+      "sha256": "e1444a0c4fc3a1e32ea4f3798b60aea25b2943d144a3ba97c2e78196ffab2cc4",
+      "bytes": 1499357
+    },
+    {
+      "source": "src/content/posts/llm-infra/kv-cache-memory/Attachments/PagedAttention.png",
+      "destination": "static/media/posts/llm-infra/kv-cache-memory/Attachments/PagedAttention.png",
+      "sha256": "8cc104c23ed8ffaeb941f9f042354c55c9f686e1251eefb58988b7bc144cac59",
+      "bytes": 531620
+    },
+    {
+      "source": "src/content/posts/llm-infra/kv-cache-memory/Attachments/PrefixCache.png",
+      "destination": "static/media/posts/llm-infra/kv-cache-memory/Attachments/PrefixCache.png",
+      "sha256": "940b357891d10b84866ce47147793191f143b2e9f04aaf292c5d24c8f359e7c1",
+      "bytes": 276494
+    },
+    {
+      "source": "src/content/posts/llm-infra/kv-cache-memory/Attachments/vLLMv1KVCacheManager.png",
+      "destination": "static/media/posts/llm-infra/kv-cache-memory/Attachments/vLLMv1KVCacheManager.png",
+      "sha256": "c0005f681860039a596f5cec58d642c0caee615a03298205d057bb5ad2a9354c",
+      "bytes": 898693
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/EPLB.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/EPLB.png",
+      "sha256": "6c4248e65cac6f27b5cbaa7bf830ae1f8be2d08914c877f4fcb3308254692f4f",
+      "bytes": 617816
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/mixed_precision_training.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/mixed_precision_training.png",
+      "sha256": "3f882d4f5f90b376da47352572996475a14201a4aad35a76fb438d58543a9481",
+      "bytes": 387206
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/paral_computegraph.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/paral_computegraph.png",
+      "sha256": "099fde3f5abae28d4e791617febe033d5472987d396f66a2858e8371aa323d38",
+      "bytes": 89769
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/paral_layerwise_problem.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/paral_layerwise_problem.png",
+      "sha256": "1ee9f866999c977ffa11ea2f17f175925e390f16b3e8c3c1b01b3cabbf463830",
+      "bytes": 60212
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/paral_layerwise.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/paral_layerwise.png",
+      "sha256": "482c61a3f392d36cb17ef1b2bfee98a5a86c38fda2f245ded53622141578f566",
+      "bytes": 124445
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/paral_pipeline_batch.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/paral_pipeline_batch.png",
+      "sha256": "99039fb983beba4883bbd12d606b5b68cca8f4fb2e057041f44a1839fc9a475d",
+      "bytes": 119073
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/paral_pp_zerobubble.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/paral_pp_zerobubble.png",
+      "sha256": "b15eefe834e4c60c5d7d74bd1f31c62fed22a76f0376bba786fcc9840477a8ef",
+      "bytes": 148352
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/paral_pp.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/paral_pp.png",
+      "sha256": "a06642749ef420231c21a8c8b8991a3583250e5c232b6a003d1e197bb1f16182",
+      "bytes": 186975
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/paral_zero_1.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/paral_zero_1.png",
+      "sha256": "49502f27e31f01e6bdfe0b03134fbea206684e1f50f1915027d0f44430b9aa73",
+      "bytes": 261707
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/paral_zero_3.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/paral_zero_3.png",
+      "sha256": "867774f690933c4d8bef1324b35a9f218b40a98179ed7358f560694263d80f2f",
+      "bytes": 287214
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/RingAttentionExplain.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/RingAttentionExplain.png",
+      "sha256": "f4a004d6a43107539ddf8e71c3f6d1bb548c90c8e53e7dbef0e19bc99512d0d7",
+      "bytes": 186479
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/RingAttentionPaper.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/RingAttentionPaper.png",
+      "sha256": "94df2129dd78fe41ffa715910b4e427809e88fc08149361050d72782938ab64f",
+      "bytes": 521541
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/Ulysses.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/Ulysses.png",
+      "sha256": "e380367ee071cb3a2e3cb8f0682af801b2a54faa0fc992f9c8b3f31c421872dc",
+      "bytes": 444201
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Attachments/Zero.png",
+      "destination": "static/media/posts/llm-infra/parallel/Attachments/Zero.png",
+      "sha256": "d547d1f480f9d69b09d9fe4e91623d12cfcac3296af5a8343bef4d09250cb31e",
+      "bytes": 191012
+    },
+    {
+      "source": "src/content/posts/llm-infra/pdd/Attachments/distserve-figure1.png",
+      "destination": "static/media/posts/llm-infra/pdd/Attachments/distserve-figure1.png",
+      "sha256": "78fcb38d74f449b761f3f1ff431c2816852eae7540080928457cd942bda568a7",
+      "bytes": 280742
+    },
+    {
+      "source": "src/content/posts/llm-infra/pdd/Attachments/ThroughputforPD.png",
+      "destination": "static/media/posts/llm-infra/pdd/Attachments/ThroughputforPD.png",
+      "sha256": "946e3468105b25eb11f00052414c8d41ce8095af7b45b7fa8084ad335b42f053",
+      "bytes": 144149
+    },
+    {
+      "source": "src/content/posts/llm-infra/pdd/Attachments/transformer-arithmetic-intensity-calculation.svg",
+      "destination": "static/media/posts/llm-infra/pdd/Attachments/transformer-arithmetic-intensity-calculation.svg",
+      "sha256": "0d810294e3a33bcf0403c153dc1f7870e824db594c94f5c25eea418e3355423b",
+      "bytes": 147016
+    },
+    {
+      "source": "src/content/posts/llm-security/Attachments/report-jun-5-latest.pdf",
+      "destination": "static/media/posts/llm-security/Attachments/report-jun-5-latest.pdf",
+      "sha256": "d80e6c2739d9b10d3d6909f330309cbf9d422cd12874924419528539bfbebccf",
+      "bytes": 2350334
+    },
+    {
+      "source": "src/content/posts/misc/Attachments/Cours 4 推导.pdf",
+      "destination": "static/media/posts/misc/Attachments/Cours 4 推导.pdf",
+      "sha256": "f4d2c5d8261d65dc8f860a128e53b0798546c24cbcc576286c1e275d4d5e51da",
+      "bytes": 1405203
+    },
+    {
+      "source": "src/content/posts/misc/Attachments/Pasted image 20260618152258.png",
+      "destination": "static/media/posts/misc/Attachments/Pasted image 20260618152258.png",
+      "sha256": "8c8b761177c1e8140507ebd32b5fa0d12af644d7074aa5a293c4d2ee144b9ac7",
+      "bytes": 387915
+    },
+    {
+      "source": "src/content/posts/misc/Attachments/reverse-proxy-config.png",
+      "destination": "static/media/posts/misc/Attachments/reverse-proxy-config.png",
+      "sha256": "ad484de6833e4bf173dca79d82cd181bc46906495838178bf24317e206d76fdb",
+      "bytes": 717369
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/AMPD_Intro.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/AMPD_Intro.png",
+      "sha256": "4592d5f7bdf4d23bed0ac0c37a4f8d7f16373dbaa064e89053c0b0e0fd2b913c",
+      "bytes": 71757
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/AMPD.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/AMPD.png",
+      "sha256": "1ea8682ff094323f52ffc2b23a8b68449945ac21a621c06ef8aee06efea3a270",
+      "bytes": 233649
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/Bidaw.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/Bidaw.png",
+      "sha256": "b2c2de1c17ba84ac6e9f16ae03bbef2f1101f174bf2f6778969740dd50459236",
+      "bytes": 134342
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/InferCept.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/InferCept.png",
+      "sha256": "e46bcd95b3243c3970c51eb8eb2394de93712538114318ef72746aa921dcf198",
+      "bytes": 540028
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/Krul.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/Krul.png",
+      "sha256": "1fa633b52d6f611fb12d04529cb687c5fe6c9a0346f1716ff8834751c242af1d",
+      "bytes": 161933
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/LAPS.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/LAPS.png",
+      "sha256": "6e0bcba9d1e4bfd306449cb3b03ffcec015162f597d29d58fdf6d2fca62c308e",
+      "bytes": 338626
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/Pensieve-KV-token-context.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/Pensieve-KV-token-context.png",
+      "sha256": "9266782ae74f7e123b9d4674285a8005ddd4131bd0f58a8bced280f46d09c0d6",
+      "bytes": 105839
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/Pensieve-multi-turn-conversation-example.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/Pensieve-multi-turn-conversation-example.png",
+      "sha256": "e5932a1ec8a720d5def06c993f47781e01ebb3836fb0c5e5b0abeb5f9d9e85d3",
+      "bytes": 81827
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/Pensieve.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/Pensieve.png",
+      "sha256": "b4ec6aba47e632b7230d884e4584740a31b515b75b6374bd19435f733a977566",
+      "bytes": 106439
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/PPD-Experiment.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/PPD-Experiment.png",
+      "sha256": "49496a14979c0189492881d458046ace4657817806ddfe9146161deb2e5ef168",
+      "bytes": 173267
+    },
+    {
+      "source": "src/content/posts/multi-round-chatbot/Attachments/PPD.png",
+      "destination": "static/media/posts/multi-round-chatbot/Attachments/PPD.png",
+      "sha256": "d41b80c556aef375167be3117fd70b5a6e0d24cdb8d39aab7dd44080df8b7864",
+      "bytes": 290226
+    },
+    {
+      "source": "src/content/posts/paper-reading/Attachments/LLM-Emu.png",
+      "destination": "static/media/posts/paper-reading/Attachments/LLM-Emu.png",
+      "sha256": "f11289d4df58114cda5e436768d3c99cb9f12c237b905cfc67df57166fb7c9b5",
+      "bytes": 2030792
+    },
+    {
+      "source": "src/content/posts/paper-reading/Attachments/revati-convervative-approaches.png",
+      "destination": "static/media/posts/paper-reading/Attachments/revati-convervative-approaches.png",
+      "sha256": "5d5a5e8830643b0694f6482310b46eb1b0d8f6faa6b06c5d3e80890162ac1ce3",
+      "bytes": 319164
+    },
+    {
+      "source": "src/content/posts/parallelism/Attachments/3MGEMMOptimization.png",
+      "destination": "static/media/posts/parallelism/Attachments/3MGEMMOptimization.png",
+      "sha256": "db31a75c31346fe04d0d7605c662c2980ef8ea0bb472f1b89944876d7b4eda3d",
+      "bytes": 589270
+    },
+    {
+      "source": "src/content/posts/parallelism/Attachments/GEMMOptimization.png",
+      "destination": "static/media/posts/parallelism/Attachments/GEMMOptimization.png",
+      "sha256": "d2e09a635cf1e1b4f0dee1d564cc08359234a92154a4176cfb329c9317be55b9",
+      "bytes": 2063078
+    },
+    {
+      "source": "src/content/posts/rl/Attachments/BellmanEquation.png",
+      "destination": "static/media/posts/rl/Attachments/BellmanEquation.png",
+      "sha256": "7fed846320a780184e5bde79dcc3af7c2be9f28e7731d3687dfec862051333ff",
+      "bytes": 89216
+    },
+    {
+      "source": "src/content/posts/rl/Attachments/MarkovProcess.png",
+      "destination": "static/media/posts/rl/Attachments/MarkovProcess.png",
+      "sha256": "4c03c6e4349995866eb6481e0b5fc378b3d4e6eecc152fda40c537a10278f393",
+      "bytes": 10252
+    },
+    {
+      "source": "src/content/posts/rl/Attachments/Montecarlo.png",
+      "destination": "static/media/posts/rl/Attachments/Montecarlo.png",
+      "sha256": "0830b7a83c1094bc1501c62841f6814ba13b2041f7df3f7142c7cf43d40a6c19",
+      "bytes": 105885
+    },
+    {
+      "source": "src/content/posts/rl/Attachments/MRP.png",
+      "destination": "static/media/posts/rl/Attachments/MRP.png",
+      "sha256": "ab54ad0eb47359135446fa8e0beec49a242032b56baf186007d119452e92f8b3",
+      "bytes": 117126
+    },
+    {
+      "source": "src/content/posts/rl/Attachments/MRPvsMDP.png",
+      "destination": "static/media/posts/rl/Attachments/MRPvsMDP.png",
+      "sha256": "893d27343c87386ef61c6f452fc5861d3e53b8f018aecd9f03ebaffd784419a5",
+      "bytes": 49458
+    },
+    {
+      "source": "src/content/posts/rl/Attachments/PolicyIteration.png",
+      "destination": "static/media/posts/rl/Attachments/PolicyIteration.png",
+      "sha256": "39a6b9da9229111edba1c5f30682aa436bba05f8bb621d7135f56bf31dd05a96",
+      "bytes": 98463
+    },
+    {
+      "source": "src/content/posts/rl/Attachments/SARSA.png",
+      "destination": "static/media/posts/rl/Attachments/SARSA.png",
+      "sha256": "ca874e499c71edc11821c241b45e75e14639f24e2181a008e22a6d5ee3fab989",
+      "bytes": 95672
+    },
+    {
+      "source": "src/content/posts/rl/Attachments/StateValueandActionValueFunction.png",
+      "destination": "static/media/posts/rl/Attachments/StateValueandActionValueFunction.png",
+      "sha256": "369b50abad5913a6d833fe56005ecc97e9ce08880e47917266e794c9f8868a49",
+      "bytes": 428859
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/BlockManager.png",
+      "destination": "static/media/posts/vLLM/Attachments/BlockManager.png",
+      "sha256": "370329d98a6062ebba0c50feb0138f45781893fc1225f21f51278528a6a35ef7",
+      "bytes": 363361
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/CanAppendCondition.png",
+      "destination": "static/media/posts/vLLM/Attachments/CanAppendCondition.png",
+      "sha256": "2e6db290def28cb60fec47dcad6e5f4a58651a77a1326599a988addec3d24953",
+      "bytes": 181912
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/EngineCoreExecutorandWorker.png",
+      "destination": "static/media/posts/vLLM/Attachments/EngineCoreExecutorandWorker.png",
+      "sha256": "1065be47ea431c274d903a3df14217e6bfe886966214d2ef3075a5ba0de36e7c",
+      "bytes": 258487
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/EngineCoreProcandEngineCore.png",
+      "destination": "static/media/posts/vLLM/Attachments/EngineCoreProcandEngineCore.png",
+      "sha256": "ac2b206dec2b03363bacbb93e642652ca75ac62348b1b37eb7e0fea7088080fe",
+      "bytes": 302028
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/ExecutorWorkerCommunication.png",
+      "destination": "static/media/posts/vLLM/Attachments/ExecutorWorkerCommunication.png",
+      "sha256": "62419e5e0338c080ca3911ed0564f7edb0124cb78d9a46f6c57c7e8994864433",
+      "bytes": 379163
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/LLMEngine.png",
+      "destination": "static/media/posts/vLLM/Attachments/LLMEngine.png",
+      "sha256": "39fc889352c55ffd54f6a6b5854ee5c4fa9293fe003c42a58ee876f4c8a71c82",
+      "bytes": 604565
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/LLMEngine2.png",
+      "destination": "static/media/posts/vLLM/Attachments/LLMEngine2.png",
+      "sha256": "686fba41f0cb97089f09ce081f600dd678735b4a06d4f7bd9c41aa9ea21643e7",
+      "bytes": 213480
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/LLMEngineCOmponents.png",
+      "destination": "static/media/posts/vLLM/Attachments/LLMEngineCOmponents.png",
+      "sha256": "aebaaba410a0314e667e1097e0e3e47e22f9c5855aa79edda61628610b1c76ab",
+      "bytes": 73088
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/LLMEngineCore.png",
+      "destination": "static/media/posts/vLLM/Attachments/LLMEngineCore.png",
+      "sha256": "874938c426bd5f73ccfacdfd9c1ff6be2cc734356920764e56b667bc9ce95b25",
+      "bytes": 510703
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/Scheduler.schedule.png",
+      "destination": "static/media/posts/vLLM/Attachments/Scheduler.schedule.png",
+      "sha256": "c13ffc6726ed1598bcd6a6f9fa0a91eaad57acbd92347e09939b0c5c6a9c511c",
+      "bytes": 2304707
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/SchedulerSimulate.png",
+      "destination": "static/media/posts/vLLM/Attachments/SchedulerSimulate.png",
+      "sha256": "9cdbc2227aca299bc5433f26d49f4682a5349141597e5d6990081420dfc914f1",
+      "bytes": 648442
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/Sequence.png",
+      "destination": "static/media/posts/vLLM/Attachments/Sequence.png",
+      "sha256": "78e79790dbd6cc16a9af22e9b2100a046482ccb08fd24505d1411d8ea2f479fd",
+      "bytes": 1863778
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-1.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-1.png",
+      "sha256": "0abab24dac8f6ec67766f9e3fef25a79d89e9e2e102e0b4628f4710823ec7605",
+      "bytes": 4915625
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-10.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-10.png",
+      "sha256": "9c86580c1f681679016bab9b27b377ec2ae0a62464890c206687c524f17574df",
+      "bytes": 5209730
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-11.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-11.png",
+      "sha256": "7127238918c8db51e6bd8e7bce450ab931999a15c0a1c6a49889027bedc1346d",
+      "bytes": 5225598
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-12.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-12.png",
+      "sha256": "6da1b1af7bf41b51e413d66dedc556217698396eb67277ae6777068e4cdc78bd",
+      "bytes": 5093968
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-15.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-15.png",
+      "sha256": "76e145cd0d0c7e4966f4f2d85e966c6bdd53de93f34520870eaa4792b9aaf581",
+      "bytes": 5119651
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-16.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-16.png",
+      "sha256": "833e2b0baee116964c42a119228e83690685a0b6d35f95fede144375034ebc85",
+      "bytes": 5152771
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-17.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-17.png",
+      "sha256": "0102bf0cd2734aca3f58aaf5420764c3f7d1222835dcfa8cfa20aecebbf48288",
+      "bytes": 5249168
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-18.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-18.png",
+      "sha256": "d8bb05b1d5d9a2892deb54667330d13c2e61970c5e3b7cd61f8a250f8bb0cd27",
+      "bytes": 5278503
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-19.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-19.png",
+      "sha256": "208608ce2c71e24b5c84ea4f92daa84265a09f0808dfae5edef12cce088a83d2",
+      "bytes": 5187795
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-2.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-2.png",
+      "sha256": "612da920931bcf9645febcde6c1a3d451d32cc7fadd8110abc235843f0661803",
+      "bytes": 5293526
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-20.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-20.png",
+      "sha256": "564ab18b912ac963249361a18b1d6bb0eb72ac85662852e84606ce6b0258f38f",
+      "bytes": 5235110
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-21.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-21.png",
+      "sha256": "ec8e1c507ac2c941a0410042f7ded6668c651151bb780584fd351863637cdf41",
+      "bytes": 5249250
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-22.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-22.png",
+      "sha256": "14378b6468fd48576cc782772218d35116564eed2ca989c99bfb9d7410d5ab72",
+      "bytes": 5182131
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-23.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-23.png",
+      "sha256": "7aa27ad489d11844063b6b9a8d4e7756e74a1a119729630697526c1eedaaa35c",
+      "bytes": 5265027
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-24.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-24.png",
+      "sha256": "e5ba2febf91faea029e107d72cacd0d41eb6ea9ffde04e6c0f6662177269687d",
+      "bytes": 5377711
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-25.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-25.png",
+      "sha256": "d975c599fced7fb1753874b82f39c2af80af8dc5572fb329f80345fe0380cf54",
+      "bytes": 5286059
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-26.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-26.png",
+      "sha256": "0665e91e22e88980e7470b9fc36bd9de6a10c88c4e7091c8fc47eb0f3febcc01",
+      "bytes": 5354486
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-27.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-27.png",
+      "sha256": "f078c201af285c4c2391e04c9bc4e79c8057610513b8fc348a2c2a2648dd7aa8",
+      "bytes": 5263722
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-28.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-28.png",
+      "sha256": "eda6f8291eeb6d89535302a8300ef89badfdae74b1473279e60694ac7bdb841c",
+      "bytes": 5043267
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-29.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-29.png",
+      "sha256": "ed3317267b57dd55272502bee0069b0aa1191312828d21e590a413d43931826a",
+      "bytes": 393874
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-3.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-3.png",
+      "sha256": "5c22457fdab3dbab4e8c492e31f7c62d3c0994d4e990f2ed2a39b216cf53eb05",
+      "bytes": 5405655
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-4.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-4.png",
+      "sha256": "5fd176fea2dcaa424c53286f88b87a96c25980df236a691283824754b0f48c94",
+      "bytes": 5151405
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-5.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-5.png",
+      "sha256": "8fc1d49caf9747fabfbd33aff21557a79494f1d95f8605ff3afdd6d8fec945f6",
+      "bytes": 5116907
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-6.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-6.png",
+      "sha256": "229eddda3ef1f1fef8973ed123165efffb490a588210c9a5d0dd449a19c7c015",
+      "bytes": 5139394
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-7.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-7.png",
+      "sha256": "d79e55e9ec313663e4c5e71a240e68af7c61b933b483dec00a9c57e95818591c",
+      "bytes": 5102311
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-8.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-8.png",
+      "sha256": "60153011aa7db76527887b01906f096a68b718205819ced8694bad83089157ec",
+      "bytes": 5074118
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-Basics-9.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-Basics-9.png",
+      "sha256": "8cc3809b9bd27c5fcdb62a8efd602eab29b6789b7efbe93555f0a055442d8224",
+      "bytes": 5141834
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-v1-Offline-Inference.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-v1-Offline-Inference.png",
+      "sha256": "0f10dd10cc53048913ec647026d5e625a7c82bd862807aeb9099daadd7b7cbe6",
+      "bytes": 615189
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/vLLM-v1-Offline-Workflow.png",
+      "destination": "static/media/posts/vLLM/Attachments/vLLM-v1-Offline-Workflow.png",
+      "sha256": "46f49e3a3dd0b50ab16d39b8bac38af7ce820cb94d03b027b54927e9894e98d6",
+      "bytes": 1577869
+    },
+    {
+      "source": "src/content/posts/vLLM/Attachments/WorkerProc.load_model.png",
+      "destination": "static/media/posts/vLLM/Attachments/WorkerProc.load_model.png",
+      "sha256": "11d749799a7f825012edab2092eb84a56ebd358b4a5e15c24be5b6ef3bf2ec1b",
+      "bytes": 434663
+    },
+    {
+      "source": "src/content/about/Attachments/GPT-Interface.png",
+      "destination": "static/media/about/Attachments/GPT-Interface.png",
+      "sha256": "aadd2bea7398a24983257e57234cba1600c31d697e5a84e3a8e9d22aed073e36",
+      "bytes": 665565
+    },
+    {
+      "source": "src/content/about/ExpertWeave.pdf",
+      "destination": "static/media/about/ExpertWeave.pdf",
+      "sha256": "a0ed4e0a9ea9468f4df0adffd590409183f34927e617300a3a0dcffd9ec45d85",
+      "bytes": 260765
+    },
+    {
+      "source": "public/feeds/atom-style.xsl",
+      "destination": "static/feeds/atom-style.xsl",
+      "sha256": "5fa572f30fa66fa400ca3ecb185be2e75f054a437426e568a9c5527f9e1dd0ad",
+      "bytes": 5431
+    },
+    {
+      "source": "public/feeds/rss-style.xsl",
+      "destination": "static/feeds/rss-style.xsl",
+      "sha256": "fb3120b15553d9755ddf9edb0ca398092b3537b3c26bcf2ac33a4ca160c08058",
+      "bytes": 5370
+    },
+    {
+      "source": "public/fonts/ComputerModern/CMUSerif-Bold.otf",
+      "destination": "static/fonts/ComputerModern/CMUSerif-Bold.otf",
+      "sha256": "e956d496776533b0ca1b6e1acaeac896b81b81b908667cbf49840048ed16bd0c",
+      "bytes": 319676
+    },
+    {
+      "source": "public/fonts/ComputerModern/CMUSerif-BoldItalic.otf",
+      "destination": "static/fonts/ComputerModern/CMUSerif-BoldItalic.otf",
+      "sha256": "538464d0d29a6224db0259059524977fea2896d737fd2be5ff79f33b3e9ba918",
+      "bytes": 223376
+    },
+    {
+      "source": "public/fonts/ComputerModern/CMUSerif-Italic.otf",
+      "destination": "static/fonts/ComputerModern/CMUSerif-Italic.otf",
+      "sha256": "fc38ce9ea06e49bda118a8be9f053791d043a547c248ae30c9e4fad956de3267",
+      "bytes": 248088
+    },
+    {
+      "source": "public/fonts/ComputerModern/CMUSerif-Regular.otf",
+      "destination": "static/fonts/ComputerModern/CMUSerif-Regular.otf",
+      "sha256": "5089693f81ed5b83435be7167bf2f93c2608ce92fb3a7e13f6be238a733c38f2",
+      "bytes": 330492
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/00785494587e3487ac63a0e7e4fa30f0.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/00785494587e3487ac63a0e7e4fa30f0.woff2",
+      "sha256": "8b7ac7c356c2e6940f33cf192f4f3ab9e95544fbddab53bf3a3a58497c014d5c",
+      "bytes": 78720
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/08e5d941a4c76fad7b68e7a937ebb21f.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/08e5d941a4c76fad7b68e7a937ebb21f.woff2",
+      "sha256": "e1d6decc960e4492ecae7ab30ec91a6347b5922a472b3900d679e4eaf76c02e7",
+      "bytes": 28740
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/1268e5072156188d601f1eeb4473655d.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/1268e5072156188d601f1eeb4473655d.woff2",
+      "sha256": "90e0109e81729b685c9b29d6a9858c8d5d81a9369902ff75036a5938fc40dcc5",
+      "bytes": 21756
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/12a385475353c815d7a5add53ee51e37.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/12a385475353c815d7a5add53ee51e37.woff2",
+      "sha256": "210d85fc1b88fb706f455e2bc95997375fc2f9b18adb2a42bd70f7245cefc233",
+      "bytes": 61860
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/12b11ca08223c65a21fc731d59dcfc11.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/12b11ca08223c65a21fc731d59dcfc11.woff2",
+      "sha256": "faa3a030116d29d4cebc29cd6869bfa637bef0b4e75121c84dd5b5a0065c8bbe",
+      "bytes": 78140
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/16d6676d3cb645c520ee6df8a1f89afd.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/16d6676d3cb645c520ee6df8a1f89afd.woff2",
+      "sha256": "f2c246f521381f7bc5f602137f6277299d15c862eea54390ac82bcc9873f2d8b",
+      "bytes": 26400
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/2912a75ffef95e7a5ae9e2b2311ad61d.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/2912a75ffef95e7a5ae9e2b2311ad61d.woff2",
+      "sha256": "1658bb0b64d09156320958edd98e1d7fb1dd64a55ae9825a8eb73b6f88bf2803",
+      "bytes": 47336
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/298d96ea561e419a4104bc9fc18499ce.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/298d96ea561e419a4104bc9fc18499ce.woff2",
+      "sha256": "b18470bb52edcf5581c4ff1b1e1140b7a282b95fb0c1d710ed496f5501466ab4",
+      "bytes": 8228
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/2a2c71acc17ec39f6780835899e53096.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/2a2c71acc17ec39f6780835899e53096.woff2",
+      "sha256": "6c88d7b0284d2ccc6a90f4f066f4ef68b4031ef3b9ec446a55b312ef75b1072e",
+      "bytes": 66436
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/2a7e2d0e59d3f638074c50fab39fdef1.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/2a7e2d0e59d3f638074c50fab39fdef1.woff2",
+      "sha256": "10ef7ec9e24d0f744b59de8e550781d892be3d184a21df1f5f0bb823493f1a0a",
+      "bytes": 27228
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/36931fc4370e1670ed76af5d3feccba2.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/36931fc4370e1670ed76af5d3feccba2.woff2",
+      "sha256": "dd2ed9700bf4edd16caa6349733e8ff3cb8dd186e20336a2b95717755207912f",
+      "bytes": 83404
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/3a68fdc792e4a9e0399a04e32d0cc2e3.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/3a68fdc792e4a9e0399a04e32d0cc2e3.woff2",
+      "sha256": "8c61e2e0f79dbfc567ff1711ed5683dc936dec2b39b3f9ab60bfe98b15efbc71",
+      "bytes": 49152
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/4054d6a4d6b37719b51e0f71da6e7cd9.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/4054d6a4d6b37719b51e0f71da6e7cd9.woff2",
+      "sha256": "ac7e9fce0b7261fcd5f5f873426a77f900e6abc16cb429fbeb3e46abca05335d",
+      "bytes": 50848
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/429cb25f825c3cbde6bfac5b36ae9675.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/429cb25f825c3cbde6bfac5b36ae9675.woff2",
+      "sha256": "8627fb55586943c2bd5ecdc2e74808f77d3f5dbf7ecc77117e640170b2e06af1",
+      "bytes": 66312
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/42a9efc11298368ecdc1b85ab46f0b4f.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/42a9efc11298368ecdc1b85ab46f0b4f.woff2",
+      "sha256": "e5fa8c55fd80ee0a237d652b39bb885d861c096b97e373cbd7ded8cd0e7481df",
+      "bytes": 16344
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/432018d2bdc9df92a7662056eb2b1261.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/432018d2bdc9df92a7662056eb2b1261.woff2",
+      "sha256": "abe5cd4f7a2500ea3b33b99623fb8b104f07bc26e5cc36479d1bb5d2547107af",
+      "bytes": 83068
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/44a6fb782f2a01560faa0f95248b60ef.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/44a6fb782f2a01560faa0f95248b60ef.woff2",
+      "sha256": "61eb07811353d136fa82e33e12b37a1debcb1b6840cfbf788dbf89511e88525e",
+      "bytes": 6180
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/45367b060e8ba0aa2507e6b91b86620b.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/45367b060e8ba0aa2507e6b91b86620b.woff2",
+      "sha256": "59f91ae5d8fdfcb505c6fb17e4734a0e1ecf996d9f00ab689d2056e2a790a579",
+      "bytes": 39744
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/571db7564bda7c1a93542881b8976f4b.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/571db7564bda7c1a93542881b8976f4b.woff2",
+      "sha256": "6d8fda6cbaa6797e70eaf2b5e247488bfe5602f09919f34435119ebec38cf3ed",
+      "bytes": 56368
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/58d55eeef4cf455e86a1142b1f3110d3.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/58d55eeef4cf455e86a1142b1f3110d3.woff2",
+      "sha256": "a5f6d509ead877ed2d64892caff519f006f6c9bae5099302bf121a0ba49b1cd7",
+      "bytes": 45360
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/59ea41e77309160a0f63cdc76a010202.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/59ea41e77309160a0f63cdc76a010202.woff2",
+      "sha256": "f00ccd0d360019222d2795157b9c4273f429b323cb71fffccf888c9712e18dc2",
+      "bytes": 63276
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/5d19d9174e568db4755981aa2e4ab380.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/5d19d9174e568db4755981aa2e4ab380.woff2",
+      "sha256": "7f9a705206a4cfa0c45e66555d42b41301fcb3c655fbfae55e4ea75a038407cd",
+      "bytes": 78912
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/5e811eb3b4175ee93d7ec000bf4631c2.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/5e811eb3b4175ee93d7ec000bf4631c2.woff2",
+      "sha256": "20546fb9a91d38b4e78784c1fa254462467dc60f2fad6b8027fffcbe3819a6b8",
+      "bytes": 73056
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/6268e0cd5d66d6fe05b331f259e7b9e4.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/6268e0cd5d66d6fe05b331f259e7b9e4.woff2",
+      "sha256": "3be751a5cd5a09c2cb7429e97abb0af2114cc9c2592d21c31a0cad82858c8d9d",
+      "bytes": 47480
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/6549844aa3d833ca06a68a8e839db465.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/6549844aa3d833ca06a68a8e839db465.woff2",
+      "sha256": "5f38d5ec886ae584a65438dbaa66f0458e3bcb40147f2b6563540520a2c98c2a",
+      "bytes": 69240
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/714b459658a7321ceeb1e1386ce165c2.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/714b459658a7321ceeb1e1386ce165c2.woff2",
+      "sha256": "35fc7dee5eea53fc5d5b95538c1180c5579b2f796c7fb50b6db5e81db1cd6be7",
+      "bytes": 1432
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/7511d97a469915013683eae06cb21cd9.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/7511d97a469915013683eae06cb21cd9.woff2",
+      "sha256": "ce7f412ab64da258453dfae9da913668df5ead11963a475e6da1a8a397097190",
+      "bytes": 56472
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/7784b4ebe543d13f62f6f6e05beb0b2e.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/7784b4ebe543d13f62f6f6e05beb0b2e.woff2",
+      "sha256": "d3c4f7734037277a91ef039545f7f29ad6f9020369505fc3216b95a92a5a1656",
+      "bytes": 45128
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/77c9bea70b3c6ab24e1497d5468c825b.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/77c9bea70b3c6ab24e1497d5468c825b.woff2",
+      "sha256": "f4e28467530eb16b8540632fb01280822cd196ede223c08e4e558ee6d8d9286b",
+      "bytes": 43460
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/789ebea9e81df623e930b86de98fbfab.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/789ebea9e81df623e930b86de98fbfab.woff2",
+      "sha256": "bc02b94fe1f1585dec9d65b0081194818e82a7a4dd3c34531d560fcfba271582",
+      "bytes": 75376
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/885bb7ab0717e8a47fc17f953adcdbf1.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/885bb7ab0717e8a47fc17f953adcdbf1.woff2",
+      "sha256": "1b9f38950f4bc038adad3ec524cf8d18b7bf27c8e5525e74300efd6e62661e1d",
+      "bytes": 54400
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/896c58aff69a9a857764cee0663bc56d.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/896c58aff69a9a857764cee0663bc56d.woff2",
+      "sha256": "7ec6ec4031e83ba37cef574fda7de01a1d4d6b962fcb0778284ddefcc7c53cbb",
+      "bytes": 35300
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/8fb6fc01c59d1e3ad1910b58dec7f5e7.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/8fb6fc01c59d1e3ad1910b58dec7f5e7.woff2",
+      "sha256": "b37d6dd7c5053e78356768c826c8cfec8e1c00e00f1f5221c8dd590057428cbf",
+      "bytes": 26132
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/95be5462b91b9a0458797cdc89d94cb5.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/95be5462b91b9a0458797cdc89d94cb5.woff2",
+      "sha256": "35f500bf8f5370ced37c271ba0bf68ae00acb69070e9e391adb9b92443bbd5cf",
+      "bytes": 41424
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/9a5b2724f983ca0fc0d5ff8d10c41396.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/9a5b2724f983ca0fc0d5ff8d10c41396.woff2",
+      "sha256": "3bc05bdbf691ac98268e08171bbf222c24cf56b3f35de42778266b8cd08a6154",
+      "bytes": 73476
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/9ffe17f9c0e4cc4356cb3f08ffdb9c6d.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/9ffe17f9c0e4cc4356cb3f08ffdb9c6d.woff2",
+      "sha256": "3fa2dac11d906b11a699f57299cb1aba3b6405dbeb3130a2a0157e9ffd131e97",
+      "bytes": 30144
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/a097ef49be62cd2565aca45600e1e3ac.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/a097ef49be62cd2565aca45600e1e3ac.woff2",
+      "sha256": "e064585b20a52a920dfdb3a77e34e8d1b8fb358db3a7ea1404211c4ab58a5cd1",
+      "bytes": 73884
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/a17a1ae6063088e5b3a48c06b816929a.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/a17a1ae6063088e5b3a48c06b816929a.woff2",
+      "sha256": "3c3e5728e9358efad7a998e65a189178d18df85458e5325676f79974de7d8b98",
+      "bytes": 61224
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/a83fdcfc5ecf2f6996704b0c02758689.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/a83fdcfc5ecf2f6996704b0c02758689.woff2",
+      "sha256": "329c842477e2b355cbf35eacf25861f0a45c1124d0385a51546e594b1584dd1f",
+      "bytes": 55352
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/a8cf15ff9b71e59407d8406866ff6f99.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/a8cf15ff9b71e59407d8406866ff6f99.woff2",
+      "sha256": "bbae6a7951f140a0b137948c5f2cf2f3f85808e2520c7d7df7fcc8efa22f3142",
+      "bytes": 74848
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/af530ed51dd519e4456f8a5e259e908b.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/af530ed51dd519e4456f8a5e259e908b.woff2",
+      "sha256": "0a742aeb90883d38157073cde8a5f3a392a1703dfd896e95e963033295433648",
+      "bytes": 79368
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/b195a8924915deec4aa9c3ec777cc93f.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/b195a8924915deec4aa9c3ec777cc93f.woff2",
+      "sha256": "1363645295d7540c3a4faeaa8454689818d9c04554406b5f59378e3dcc86bf8f",
+      "bytes": 68596
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/b4b6bb5df9239dd67b52ca858fd2a506.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/b4b6bb5df9239dd67b52ca858fd2a506.woff2",
+      "sha256": "fff28a7709920609e2c480d8f7946e8f4e66aa52c022c46a94be84eb6f3864cd",
+      "bytes": 54868
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/b7592e1e027923f19e0e55dfdac69668.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/b7592e1e027923f19e0e55dfdac69668.woff2",
+      "sha256": "a3321e0b839af3170b928c80c7f4e520525b03d2ed8a036d6b6774596ad238e0",
+      "bytes": 49264
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/b965859f69d8ccceaf0e2d6292afbcfb.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/b965859f69d8ccceaf0e2d6292afbcfb.woff2",
+      "sha256": "723878f29c8ee2bbda2eb7290e625d02b867c6a949799aadbf49468afa033d59",
+      "bytes": 19828
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/bbe9333f1ff242bd96ecb23ff9e723b1.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/bbe9333f1ff242bd96ecb23ff9e723b1.woff2",
+      "sha256": "d7b505739c1f2a9e0b2bbec3c30ce2c9103ebf0fb6212e41d75b8b9758baca9b",
+      "bytes": 1456
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/be758580e295339ea98f0240b9869f24.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/be758580e295339ea98f0240b9869f24.woff2",
+      "sha256": "e04e3e5984ca5332568d8e3d2cf424718811bf7924864dd2d72941168eecbfe5",
+      "bytes": 48620
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/c07099e1d025617f6d40966986e1941b.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/c07099e1d025617f6d40966986e1941b.woff2",
+      "sha256": "5f552f9c8e07aba5251e460e4bca159e5b83ea52ef5364949b6067f290e71999",
+      "bytes": 61244
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/c1b593dda62fdeb7dde3af02016da282.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/c1b593dda62fdeb7dde3af02016da282.woff2",
+      "sha256": "ec91e1e43dd5a9a851cca052582410996f0053bbcd7c6cc9363b518cc6e235ef",
+      "bytes": 43100
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/c89f0335910a68a0958f2846108370e8.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/c89f0335910a68a0958f2846108370e8.woff2",
+      "sha256": "6c6cf317f974e55887fe7cfdc319a408483adeaecdfc74456e9766224e83c471",
+      "bytes": 84364
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/ca49aa409fdedd3f2f894cd20a16640a.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/ca49aa409fdedd3f2f894cd20a16640a.woff2",
+      "sha256": "1a54917c4288eec01372be8453fa3eb34d3f85e49777ca6d49a39d099a96c231",
+      "bytes": 61688
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/ccd4a28d2f63797e0183c87792e20b75.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/ccd4a28d2f63797e0183c87792e20b75.woff2",
+      "sha256": "29e7b3f7e381b980b9625a84c21418714c81c0654c9ffbe4f9ec1b2203802e23",
+      "bytes": 66276
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/d2718da923fce8e7ea229d65e306e92c.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/d2718da923fce8e7ea229d65e306e92c.woff2",
+      "sha256": "6991912122ddb6bddec611a39bf6eb5293c04e8eb7244749614a4353286a59b9",
+      "bytes": 32268
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/d893e9b307d96041e9cfcbd03761b9f4.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/d893e9b307d96041e9cfcbd03761b9f4.woff2",
+      "sha256": "ac49e58d06e6711a7f5251dc4b5b7b6673ffa173698230e28fc89c73853b9edf",
+      "bytes": 76812
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/dafaedaee41b75e21479d4ff324b6a34.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/dafaedaee41b75e21479d4ff324b6a34.woff2",
+      "sha256": "feef968a2650bba68a6f8479afa3b266e158d859aecd9d4d81555866f403ee6f",
+      "bytes": 72104
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/db392af65f1867e5fd580eed2195df99.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/db392af65f1867e5fd580eed2195df99.woff2",
+      "sha256": "601234240f58b35a6934489717ec1d9ba1a7b76db9a59f133856217365abe4cc",
+      "bytes": 76140
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/dc7c73a9e5577143ccd11e05ab55cb39.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/dc7c73a9e5577143ccd11e05ab55cb39.woff2",
+      "sha256": "080bf2b3e6f1fa13523262f19759c2282e98b19ca15926feef9acca9937e3658",
+      "bytes": 48064
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/de396881189f747eba67685298363242.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/de396881189f747eba67685298363242.woff2",
+      "sha256": "6438874d9787720f3acd50b6378656a57422a90f84958f2e98300f56e7625ed8",
+      "bytes": 69584
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/df625b213228bba22a7733d4eff8f148.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/df625b213228bba22a7733d4eff8f148.woff2",
+      "sha256": "1612456c233ca13e4862e73fd0a2b83f31fb832d09b8438ab98c982f3e91032f",
+      "bytes": 68164
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/e6e60b384f220b893ef31a926ece829a.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/e6e60b384f220b893ef31a926ece829a.woff2",
+      "sha256": "e340421ffc4d094dd8905ec73ece9a4f8ccd8f50a26478acaefb4b2955e307a3",
+      "bytes": 53504
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/e6e8ce2c5972ab665630bb705383d0fb.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/e6e8ce2c5972ab665630bb705383d0fb.woff2",
+      "sha256": "eb52e47f2e2c781d00fbdfe2dc50f9d2d942eb3c3c7dcc939a1b7c8d3435cb43",
+      "bytes": 37756
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/e963c7ed7104c2d6d68fcb5f952fe2f5.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/e963c7ed7104c2d6d68fcb5f952fe2f5.woff2",
+      "sha256": "7ba3d9c2efc57853194753d0d4b85952b8af00ea9dab88ec46d80ea7a47f3d15",
+      "bytes": 64344
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/e966b23b4cd7783f43e31032d41784f4.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/e966b23b4cd7783f43e31032d41784f4.woff2",
+      "sha256": "38d94b8635fa74723b5a90371cacfee833a1cc334799b3d08a4c7158783540c1",
+      "bytes": 72488
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/EarlySummer-VF-Subset.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/EarlySummer-VF-Subset.woff2",
+      "sha256": "1967774e104844bedcdbe5c601b1ab0d1c0a5ea9a74d3b4b46ec1bc0c0e4942a",
+      "bytes": 17656
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/EarlySummerSerif License.txt",
+      "destination": "static/fonts/EarlySummer-VF-Split/EarlySummerSerif License.txt",
+      "sha256": "e564f06d018e7b95bc3594c96a17f1d41865af4038c375e7aa974dd69df38602",
+      "bytes": 4302
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/edaac57c3856ec13128f4c6c3e00975c.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/edaac57c3856ec13128f4c6c3e00975c.woff2",
+      "sha256": "0104626c2109736715b9f2ce5efc705e8380af86c0c9b8cdd0c1aca8536da121",
+      "bytes": 69392
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/ee54e0d86edf068c6c9cbddb76a856fe.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/ee54e0d86edf068c6c9cbddb76a856fe.woff2",
+      "sha256": "b98c60043de4fd6100b8af7aaa72a4e8a9f9d33bf493bef294fe7c15ff8757c9",
+      "bytes": 38196
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/f612c78a5544ff2dd3e8296ac3e58344.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/f612c78a5544ff2dd3e8296ac3e58344.woff2",
+      "sha256": "4231a6ccba1a2461839a1f1c810b6e24df8f2537efa3787589e3fdf72c5138bd",
+      "bytes": 12148
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/f9e539bd9b7bf999c3da82f5403ec3b6.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/f9e539bd9b7bf999c3da82f5403ec3b6.woff2",
+      "sha256": "6d8139b4bd5ae40eeab87eb1ddb2979cdd2bb06a3d9b7b6324e9264927ce94c0",
+      "bytes": 39984
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/fa5863b923ac15993c52a619f699ee63.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/fa5863b923ac15993c52a619f699ee63.woff2",
+      "sha256": "fa1cec850e39622d7807d41a0f4bab778815b53d70cc01965185939d16e07691",
+      "bytes": 80232
+    },
+    {
+      "source": "public/fonts/EarlySummer-VF-Split/fc759e56ec6f6e6d3d4cb163d62fb557.woff2",
+      "destination": "static/fonts/EarlySummer-VF-Split/fc759e56ec6f6e6d3d4cb163d62fb557.woff2",
+      "sha256": "61d26c794ca36798b174238b4e843620de2d95322cbfa39b6b81d07cb99f381b",
+      "bytes": 51044
+    },
+    {
+      "source": "public/fonts/Font Subset List/CJK Common Characters.txt",
+      "destination": "static/fonts/Font Subset List/CJK Common Characters.txt",
+      "sha256": "92da2e13ca7788e2674590ea7f45fcc427271bdff06c3480bdd8721486b1c400",
+      "bytes": 45508
+    },
+    {
+      "source": "public/fonts/Font Subset List/EarlySummer Subset.txt",
+      "destination": "static/fonts/Font Subset List/EarlySummer Subset.txt",
+      "sha256": "9b474f19fd1e0ec38353a404ddf4db50afecf89f8803c9ca828182d1db63c8f9",
+      "bytes": 153
+    },
+    {
+      "source": "public/fonts/Font Subset List/Japanese Kana + Korean Letters.txt",
+      "destination": "static/fonts/Font Subset List/Japanese Kana + Korean Letters.txt",
+      "sha256": "49cf8b9bf9a5729500d2fbcd9f018b795f498ef2fc092fad7d97865b5d7194de",
+      "bytes": 58238
+    },
+    {
+      "source": "public/fonts/Font Subset List/Latin + Cyrillic + Greek + Arabic Glyphs.txt",
+      "destination": "static/fonts/Font Subset List/Latin + Cyrillic + Greek + Arabic Glyphs.txt",
+      "sha256": "71404e97006ef42f7658fe4bdc6d40989116c2ad5376a0fb0343acca5c0c861d",
+      "bytes": 6889
+    },
+    {
+      "source": "public/fonts/Font Subset List/unicode_range.py",
+      "destination": "static/fonts/Font Subset List/unicode_range.py",
+      "sha256": "29b9d9ea6c4ad256c4fa48107054e2aac378137d7bc7e7b266503687d87733aa",
+      "bytes": 1425
+    },
+    {
+      "source": "public/fonts/NotoSansSC-Bold.otf",
+      "destination": "static/fonts/NotoSansSC-Bold.otf",
+      "sha256": "c6cb5a93abaa9edc8ee7463b7ebb7f42d618d40e6ed2f7a5371c97b0b64767c0",
+      "bytes": 8543168
+    },
+    {
+      "source": "public/fonts/NotoSansSC-Regular.otf",
+      "destination": "static/fonts/NotoSansSC-Regular.otf",
+      "sha256": "faa6c9df652116dde789d351359f3d7e5d2285a2b2a1f04a2d7244df706d5ea9",
+      "bytes": 8331336
+    },
+    {
+      "source": "public/fonts/Snell-Black-SF.woff2",
+      "destination": "static/fonts/Snell-Black-SF.woff2",
+      "sha256": "e165a818dcc5b5d9b217743bb42c653af18cc4868718f62acd36eac3c8459f12",
+      "bytes": 58100
+    },
+    {
+      "source": "public/fonts/Snell-Bold-SF.woff2",
+      "destination": "static/fonts/Snell-Bold-SF.woff2",
+      "sha256": "0ee0dfe10b93015ef34645d9d471c210d6cc2cf4a6c7e57dfd13670f475c3bb2",
+      "bytes": 48956
+    },
+    {
+      "source": "public/fonts/STIX-Italic-VF.woff2",
+      "destination": "static/fonts/STIX-Italic-VF.woff2",
+      "sha256": "009575c914e7ae381937edc194b6578f4b538887603a1e111263fa863133a933",
+      "bytes": 58644
+    },
+    {
+      "source": "public/fonts/STIX-VF.woff2",
+      "destination": "static/fonts/STIX-VF.woff2",
+      "sha256": "74959ccd592ede6f446336b08479f3f3a097d6915bf45982b3512b2c062500f5",
+      "bytes": 52964
+    },
+    {
+      "source": "public/giscus/theme-dark.css",
+      "destination": "static/giscus/theme-dark.css",
+      "sha256": "0013cd8bebb4e32e74ffdbd0b7fd19e8d5608e288dce29ac33baf86c8fadb6cd",
+      "bytes": 7067
+    },
+    {
+      "source": "public/giscus/theme-light.css",
+      "destination": "static/giscus/theme-light.css",
+      "sha256": "ad94a525b523517625e763af8e5b5a3d21ef37c8a3684ab35c434bf0d58d07b3",
+      "bytes": 7170
+    },
+    {
+      "source": "public/icons/favicon.svg",
+      "destination": "static/icons/favicon.svg",
+      "sha256": "5e5071a48aa91289d01cdfd77d139c55564f034d779d9de5f0369f60fd62e7e7",
+      "bytes": 2877
+    },
+    {
+      "source": "public/icons/og-logo.jpeg",
+      "destination": "static/icons/og-logo.jpeg",
+      "sha256": "63644edab72de71b08b3964eeb1ed5d47b5622397e101b570956a88584aa702e",
+      "bytes": 22481
+    },
+    {
+      "source": "public/sounds/tap_01.wav",
+      "destination": "static/sounds/tap_01.wav",
+      "sha256": "90b63a5ed13047da75870287bef6cfb62ee0037de1ad61dfd4370635a2ebaa62",
+      "bytes": 926
+    },
+    {
+      "source": "public/sounds/tap_02.wav",
+      "destination": "static/sounds/tap_02.wav",
+      "sha256": "e804e259cc54adb16ed1aca21eb0aa54c2e82f2958c222be50151a47e43090ec",
+      "bytes": 926
+    },
+    {
+      "source": "public/sounds/tap_03.wav",
+      "destination": "static/sounds/tap_03.wav",
+      "sha256": "977fa134be135d1d8b7cd633822f540131c6a9f45879f53cde1158285ef42c3a",
+      "bytes": 930
+    },
+    {
+      "source": "public/sounds/tap_04.wav",
+      "destination": "static/sounds/tap_04.wav",
+      "sha256": "1a2fdfdeb7b6254502d8ef94d22b3a181f39dc61f4cd2868178db96e1d72fdde",
+      "bytes": 928
+    },
+    {
+      "source": "public/sounds/tap_05.wav",
+      "destination": "static/sounds/tap_05.wav",
+      "sha256": "e92f388b2aa4b6a2550c674f89e33e749e72fc9a75e65be71f485bd1ecdd9528",
+      "bytes": 926
+    },
+    {
+      "source": "public/sounds/type_01.wav",
+      "destination": "static/sounds/type_01.wav",
+      "sha256": "3ec595fdf329c3204005aeb8d449a92bb9feb3f3ea590a42429d294b5a2d1578",
+      "bytes": 932
+    },
+    {
+      "source": "public/sounds/type_02.wav",
+      "destination": "static/sounds/type_02.wav",
+      "sha256": "56e7b08b2829d932370db3a1c39b459421fea8af34d74094ce444361f68dc154",
+      "bytes": 936
+    },
+    {
+      "source": "public/sounds/type_03.wav",
+      "destination": "static/sounds/type_03.wav",
+      "sha256": "1b8605429a1962bf0c5bc5460a263e78489fd916ff6df41b06480ab6e814f918",
+      "bytes": 932
+    },
+    {
+      "source": "public/sounds/type_04.wav",
+      "destination": "static/sounds/type_04.wav",
+      "sha256": "7be1ed6f4aa95c52de731a5e934ec395dcb0c1cc4613abdf13fb8e1e0d3a0ad5",
+      "bytes": 952
+    },
+    {
+      "source": "public/sounds/type_05.wav",
+      "destination": "static/sounds/type_05.wav",
+      "sha256": "9bd41fe4f0e4f654419750a117999f78c27df1ef604039ece1b03dbf684cda58",
+      "bytes": 936
+    }
+  ],
+  "repairedSourceLinks": [
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Attention (FA1).md",
+      "original": "Online%20Softmax%20推导.md",
+      "target": "src/content/posts/llm-infra/Online Softmax 推导.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Attention 2 (FA2).md",
+      "original": "Online%20Softmax%20推导.md",
+      "target": "src/content/posts/llm-infra/Online Softmax 推导.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Attention 2 (FA2).md",
+      "original": "attention/Flash%20Attention%20(FA1).md",
+      "target": "src/content/posts/llm-infra/attention/Flash Attention (FA1).md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Decoding.md",
+      "original": "attention/Flash%20Attention%20(FA1).md",
+      "target": "src/content/posts/llm-infra/attention/Flash Attention (FA1).md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Decoding.md",
+      "original": "attention/Flash%20Attention%202%20(FA2).md",
+      "target": "src/content/posts/llm-infra/attention/Flash Attention 2 (FA2).md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/attention/Flash Decoding.md",
+      "original": "attention/Flash%20Attention%20(FA1).md",
+      "target": "src/content/posts/llm-infra/attention/Flash Attention (FA1).md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理知识大纲.md",
+      "original": "ZeRO%20和%20FSDP：DP优化——将模型参数和中间状态分片到多卡.md",
+      "target": "src/content/posts/llm-infra/parallel/ZeRO 和 FSDP：DP优化——将模型参数和中间状态分片到多卡.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理知识大纲.md",
+      "original": "Pipeline%20Parallel：模型并行.md",
+      "target": "src/content/posts/llm-infra/parallel/Pipeline Parallel：模型并行.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理知识大纲.md",
+      "original": "DeepSpeed%20Ulysses：Attention%20Block%20的序列并行.md",
+      "target": "src/content/posts/llm-infra/parallel/DeepSpeed Ulysses：Attention Block 的序列并行.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理知识大纲.md",
+      "original": "Ring%20Attention：Attention%20Block%20的序列并行.md",
+      "target": "src/content/posts/llm-infra/parallel/Ring Attention：Attention Block 的序列并行.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理知识大纲.md",
+      "original": "EPLB：MoE%20Expert%20负载均衡.md",
+      "target": "src/content/posts/llm-infra/parallel/EPLB：MoE Expert 负载均衡.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理知识大纲.md",
+      "original": "Paged%20Attention：高效管理%20KV%20Cache.md",
+      "target": "src/content/posts/llm-infra/kv-cache-memory/Paged Attention：高效管理 KV Cache.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/LLM 推理知识大纲.md",
+      "original": "Prefix%20Cache：前缀%20KV%20Cache%20缓存.md",
+      "target": "src/content/posts/llm-infra/kv-cache-memory/Prefix Cache：前缀 KV Cache 缓存.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/DeepSpeed Ulysses：Attention Block 的序列并行.md",
+      "original": "../llm/LLM%20基础：Attention.md",
+      "target": "src/content/posts/llm/LLM 基础：Attention.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/parallel/Ring Attention：Attention Block 的序列并行.md",
+      "original": "Online%20Softmax%20推导.md",
+      "target": "src/content/posts/llm-infra/Online Softmax 推导.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/pdd/大模型推理批处理和吞吐优化.md",
+      "original": "Roofline%20Model：从算术强度出发理解性能瓶颈.md",
+      "target": "src/content/posts/llm-infra/Roofline Model：从算术强度出发理解性能瓶颈.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/大模型推理并行策略.md",
+      "original": "ZeRO%20和%20FSDP：DP优化——将模型参数和中间状态分片到多卡.md",
+      "target": "src/content/posts/llm-infra/parallel/ZeRO 和 FSDP：DP优化——将模型参数和中间状态分片到多卡.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/大模型推理并行策略.md",
+      "original": "DeepSpeed%20Ulysses：Attention%20Block%20的序列并行.md",
+      "target": "src/content/posts/llm-infra/parallel/DeepSpeed Ulysses：Attention Block 的序列并行.md"
+    },
+    {
+      "source": "src/content/posts/llm-infra/大模型推理并行策略.md",
+      "original": "Pipeline%20Parallel：模型并行.md",
+      "target": "src/content/posts/llm-infra/parallel/Pipeline Parallel：模型并行.md"
+    },
+    {
+      "source": "src/content/posts/vLLM/Nano vLLM 解读（4）：解析 BlockManager.md",
+      "original": "../llm-infra/Prefix%20Cache：前缀%20KV%20Cache%20缓存.md#vLLM%20v1%20Prefix%20Cache%20实现",
+      "target": "src/content/posts/llm-infra/kv-cache-memory/Prefix Cache：前缀 KV Cache 缓存.md"
+    },
+    {
+      "source": "src/content/posts/vLLM/Nano vLLM 解读（4）：解析 BlockManager.md",
+      "original": "../llm-infra/Prefix%20Cache：前缀%20KV%20Cache%20缓存.md",
+      "target": "src/content/posts/llm-infra/kv-cache-memory/Prefix Cache：前缀 KV Cache 缓存.md"
+    }
+  ],
+  "unresolvedLinks": [],
+  "rewrittenLinks": 318,
+  "directives": 13,
+  "highlights": 0,
+  "summary": {
+    "posts": 89,
+    "published": 76,
+    "drafts": 13,
+    "assets": 332,
+    "assetBytes": 240290473
+  }
+}

@@ -1,0 +1,12 @@
+<section class="recent-posts">
+<h2>最近的文章</h2>
+{{ with .Site.GetPage "/blog" }}
+{{ range first 12 .RegularPagesRecursive }}
+<article>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h3>
+  <div class="small">{{ if gt (int (.Params.pin | default 0)) 0 }}置顶 · {{ end }}{{ .Date.Format "2006-01-02" }}</div>
+</article>
+{{ end }}
+{{ end }}
+<p><a href="{{ "blog/" | relURL }}">查看全部文章 →</a></p>
+</section>

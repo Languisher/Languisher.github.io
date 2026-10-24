@@ -8,6 +8,9 @@ publishing source. Push changes to `main` to publish; check the repository's
 Actions tab for build and deployment status. Generated `site/public/` files are
 not committed.
 
+Article content and attachments were migrated from the original Astro Blog.
+See [MIGRATION.md](MIGRATION.md) for front matter mappings and verification.
+
 ## _For the love of printed media_
 
 A Hugo theme inspired by the paged.js website. See <https://paged.yihui.org> for a demo.
