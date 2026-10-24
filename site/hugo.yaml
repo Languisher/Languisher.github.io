@@ -1,9 +1,11 @@
-baseurl: "/"
-locale: "en-US"
-title: "A Hugo theme inspired by paged.js"
-theme: "hugo-paged"
+baseurl: "https://languisher.github.io/"
+locale: "zh-CN"
+title: "L1Nx's Site"
+theme: "Languisher.github.io"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 footnotereturnlinkcontents: "↩"
+defaultContentLanguage: "zh"
+hasCJKLanguage: true
 
 outputs:
   home: [html, rss, json]
@@ -20,7 +22,7 @@ params:
   description: "A website built through Hugo with the hugo-paged theme."
   logo:
     en:
-      alt: LOGO TEXT
+      alt: Nan Lin's Site
       img: # a path to the logo
   footer: "&copy; [Yihui Xie](https://yihui.org) {Year}"
 
@@ -31,5 +33,10 @@ markup:
   highlight:
     codeFences: false
   goldmark:
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block: [['$$', '$$']]
     renderer:
       unsafe: true

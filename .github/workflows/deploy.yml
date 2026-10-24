@@ -1,0 +1,54 @@
+name: Deploy website
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          path: website
+
+      - name: Install Hugo
+        run: |
+          curl -fsSL -o "$RUNNER_TEMP/hugo.tar.gz" \
+            https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_linux-amd64.tar.gz
+          tar -xzf "$RUNNER_TEMP/hugo.tar.gz" -C "$RUNNER_TEMP" hugo
+          echo "$RUNNER_TEMP" >> "$GITHUB_PATH"
+
+      - uses: actions/configure-pages@v6
+
+      - name: Build website
+        working-directory: website
+        run: |
+          hugo --source site \
+            --themesDir ../.. \
+            --theme website \
+            --baseURL "https://languisher.github.io/" \
+            --destination "$RUNNER_TEMP/public" \
+            --cacheDir "$RUNNER_TEMP/hugo-cache" \
+            --minify
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: ${{ runner.temp }}/public
+
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v5

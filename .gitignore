@@ -4,4 +4,7 @@
 .Ruserdata
 exampleSite/public
 exampleSite/.hugo_build.lock
+site/public/
+site/resources/
+site/.hugo_build.lock
 .positai

@@ -1,0 +1,5 @@
+{{- /* Adapted from yihui.org: Chinese title or /cn/ section marks a Chinese page.
+      Also recognize this site's Chinese locale, including English-titled pages. */ -}}
+{{- $isChinese := or (hasPrefix .Site.Language.Locale "zh") (gt (len (findRE `\p{Han}` .Title)) 0) (hasPrefix .RelPermalink "/cn/") -}}
+{{- .Scratch.Set "lang" (cond $isChinese "cn" "") -}}
+<html lang="{{ cond $isChinese "zh-CN" .Site.Language.Locale }}">

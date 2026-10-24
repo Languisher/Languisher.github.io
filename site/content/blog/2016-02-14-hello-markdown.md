@@ -74,7 +74,12 @@ An image (automatically centered):
 
 A math equation (render by KaTeX):
 
-`$$|x| = \begin{cases} x & \text{if } x \geq 0 \\ -x & \text{if } x < 0  \end{cases}$$`
+$$
+f(x) = \exp 2^3
+$$
+
+`Command`
+
 
 How about `Ctrl + C` and `Ctrl + V`?
 
